@@ -140,5 +140,13 @@
         "paths": [
             "override_Store"
         ]
+    },
+    {
+        "owner": "RS0485",
+        "repo": "network-rules",
+        "branch": "main",
+        "paths": [
+            "rewrite"
+        ]
     }
 ]
