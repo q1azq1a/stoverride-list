@@ -749,18 +749,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "iRingo",
-    "desc": "Unlock some regional features of Apple services.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "重写转换",
     "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，自定义name和desc qx.stoverride?n=名字+简介 surge同理，当缺省名字时，仅修改desc，name为文件名，当简介缺省时，同时修改name和desc，bug反馈：https://t.me/zhangpeifu，更新日期23.1.8",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "iRingo",
+    "desc": "Unlock some regional features of Apple services.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "DNS-CN",
@@ -1078,6 +1078,13 @@
     "repo": "scripts"
   },
   {
+    "name": "直连+代理IP地址信息",
+    "desc": "同时查询直连和代理的IP信息显示在Tile，使用前请配置分流规则->域名ip-api.com使用直连，域名ipgeolocation.io使用代理",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "网络流量统计",
     "desc": "统计详细的上传、下载流量以及活动连接显示在Tile，每30s刷新一次(本地网络不耗流量)",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
@@ -1088,13 +1095,6 @@
     "name": "重写去广告",
     "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
-    "name": "直连+代理IP地址信息",
-    "desc": "同时查询直连和代理的IP信息显示在Tile，使用前请配置分流规则->域名ip-api.com使用直连，域名ipgeolocation.io使用代理",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
   },
