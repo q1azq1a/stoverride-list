@@ -364,18 +364,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "BiliBili 去广告（兼容国际版）",
-    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "BiliBili 去广告（兼容国际版）",
+    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TestFlight账户管理",
@@ -560,18 +560,18 @@
     "repo": "rules"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "Xmind思维导图",
@@ -1083,5 +1083,33 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "重写去广告",
+    "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
+    "name": "网络流量统计",
+    "desc": "统计详细的上传、下载流量以及活动连接显示在Tile，每30s刷新一次(本地网络不耗流量)",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
+    "name": "直连+代理IP地址信息",
+    "desc": "同时查询直连和代理的IP信息显示在Tile，使用前请配置分流规则->域名ip-api.com使用直连，域名ipgeolocation.io使用代理",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
+    "name": "实时油价查询",
+    "desc": "通过网络API查询当前油价，默认查询地区为广东省，可修改覆写的argument指定其它地区",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   }
 ]
