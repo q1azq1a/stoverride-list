@@ -1,5 +1,12 @@
 [
   {
+    "name": "记录有多余的 DNS 解析的请求",
+    "desc": "默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "联通余量(v4)",
     "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
