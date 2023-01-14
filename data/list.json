@@ -854,6 +854,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "重写去广告",
+    "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "Weather",
     "desc": "Unlock some regional features of Weather.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
@@ -866,13 +873,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "重写去广告",
-    "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "克拉壁纸",
@@ -1043,16 +1043,16 @@
     "repo": "scripts"
   },
   {
-    "name": "自动加入 TestFlight(β)",
-    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
+    "name": "联通余量(v4)",
+    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
   {
-    "name": "联通余量(v4)",
-    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
+    "name": "自动加入 TestFlight(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
