@@ -1036,16 +1036,16 @@
     "repo": "scripts"
   },
   {
-    "name": "获取 TestFlight 信息(β)",
-    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
+    "name": "联通余量(v4)",
+    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
   {
-    "name": "联通余量(v4)",
-    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
+    "name": "获取 TestFlight 信息(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
