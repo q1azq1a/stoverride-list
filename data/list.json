@@ -805,6 +805,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告 API的地址为：http://clash.insight:9090/json，注意此API处于试验阶段，数据格式可能随时改变",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "规则模式",
     "desc": "以规则模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
@@ -815,13 +822,6 @@
     "name": "网络流量统计",
     "desc": "统计详细的上传、下载、活动连接信息，分析不必要的DNS解析，每30s刷新一次(本地网络不耗流量，Tile不可见时不刷新不耗电)",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告 API的地址为：http://clash.insight:9090/json，注意此API处于试验阶段，数据格式可能随时改变",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
   },
