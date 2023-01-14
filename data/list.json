@@ -742,16 +742,16 @@
     "repo": "rules"
   },
   {
-    "name": "iCloud",
-    "desc": "Unlock some regional features of iCloud.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "name": "iCloud",
+    "desc": "Unlock some regional features of iCloud.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -791,6 +791,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
@@ -798,9 +805,9 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告 API的地址为：http://clash.insight:9090/json，注意此API处于试验阶段，数据格式可能随时改变",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "name": "网络流量统计",
+    "desc": "统计详细的上传、下载、活动连接信息，分析不必要的DNS解析，每30s刷新一次(本地网络不耗流量，Tile不可见时不刷新不耗电)",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
   },
@@ -817,13 +824,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "网络流量统计",
-    "desc": "统计详细的上传、下载、活动连接信息，分析不必要的DNS解析，每30s刷新一次(本地网络不耗流量，Tile不可见时不刷新不耗电)",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "Emby Plugin",
@@ -868,18 +868,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "重写去广告",
     "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "Force Http Engine",
@@ -1050,6 +1050,13 @@
     "repo": "scripts"
   },
   {
+    "name": "联通余量(v4)",
+    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "实时油价查询",
     "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
@@ -1069,13 +1076,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "联通余量(v4)",
-    "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
