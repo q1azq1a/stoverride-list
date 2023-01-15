@@ -973,18 +973,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Siri",
-    "desc": "Unlock some regional features of Siri.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "联通余量(v4)",
     "desc": "新版测试中 非群内用户勿用 https://t.me/zhetengsha_group",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "Siri",
+    "desc": "Unlock some regional features of Siri.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "引用私有库",
