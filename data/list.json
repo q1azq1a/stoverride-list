@@ -1050,18 +1050,18 @@
     "repo": "scripts"
   },
   {
-    "name": "自动加入 TestFlight(β)",
-    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "实时油价查询",
     "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "自动加入 TestFlight(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "TV",
