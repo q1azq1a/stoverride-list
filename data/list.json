@@ -196,16 +196,16 @@
     "repo": "rule"
   },
   {
-    "name": "网易云音乐解锁",
-    "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
+    "name": "去广告规则",
+    "desc": "分流去广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/ADRulesLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告规则",
-    "desc": "分流去广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/ADRulesLite.stoverride",
+    "name": "网易云音乐解锁",
+    "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -518,18 +518,18 @@
     "repo": "rule"
   },
   {
-    "name": "YouTube Ad&Tracker Blocking (Alternative)",
-    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "bilibili去广告(>=iOS15)",
     "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "YouTube Ad&Tracker Blocking (Alternative)",
+    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -644,6 +644,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
@@ -656,13 +663,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "TikTok解锁-法国",
@@ -959,6 +959,13 @@
     "repo": "rule"
   },
   {
+    "name": "百度网盘解锁倍速",
+    "desc": "仅解锁倍速清晰度",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "Siri",
     "desc": "Unlock some regional features of Siri.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
@@ -971,13 +978,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "百度网盘解锁倍速",
-    "desc": "仅解锁倍速清晰度",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "电信余量",
