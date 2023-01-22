@@ -469,18 +469,18 @@
     "repo": "scripts"
   },
   {
-    "name": "IP 网络信息 Tile 面板",
-    "desc": "包含国内和国外. 自己设置对应域名的分流",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "IP 网络信息 Tile 面板",
+    "desc": "包含国内和国外. 自己设置对应域名的分流",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "TikTok解锁-新加坡",
@@ -532,6 +532,13 @@
     "repo": "StashOverrides"
   },
   {
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-韩国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
@@ -542,13 +549,6 @@
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -567,18 +567,18 @@
     "repo": "rule"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "Stash Insight",
     "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "Xmind思维导图",
