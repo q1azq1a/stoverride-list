@@ -182,18 +182,18 @@
     "repo": "scripts"
   },
   {
-    "name": "🍿️ DualSubs for 🎦 Streaming Media Platform",
-    "desc": "(V0.7.x) 流媒体平台字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": "Bilibili去广告",
     "desc": "需iOS15，去除开屏页、推荐页广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "🍿️ DualSubs for 🎦 Streaming Media Platform",
+    "desc": "(V0.7.x) 流媒体平台字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
   },
   {
     "name": "去广告规则",
@@ -917,16 +917,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "短信转发",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
+    "name": "联通余量(v4)",
+    "desc": "定时查询 与 Tile 面板",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
   {
-    "name": "联通余量(v4)",
-    "desc": "定时查询 与 Tile 面板",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v4/10010.rewrite.stash.stoverride",
+    "name": "短信转发",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
