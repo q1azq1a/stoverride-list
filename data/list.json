@@ -770,13 +770,6 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "网络流量统计",
-    "desc": "统计详细的上传、下载、活动连接信息，分析不必要的DNS解析，每30s刷新一次(本地网络不耗流量，Tile不可见时不刷新不耗电)",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/NetworkTraffic.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
@@ -883,7 +876,7 @@
   },
   {
     "name": "直连+代理IP地址信息",
-    "desc": "同时查询直连和代理的IP信息显示在Tile，使用前请配置分流规则->域名ip-api.com使用直连，域名ipgeolocation.io使用代理",
+    "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6 使用前请配置分流规则：域名 wtfismyip.com 使用直连，域名 ipgeolocation.io 使用代理",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
