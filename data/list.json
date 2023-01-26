@@ -868,18 +868,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "Weather",
-    "desc": "Unlock some regional features of Weather.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "直连+代理IP地址信息",
     "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6 使用前请配置分流规则：域名 wtfismyip.com 使用直连，域名 ipgeolocation.io 使用代理",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "Weather",
+    "desc": "Unlock some regional features of Weather.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "联通余量(v4)",
