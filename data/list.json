@@ -658,18 +658,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "WeChat Article Cleaner",
-    "desc": "Block WeChat's in-article reporting and ads.[微信文章][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "重写转换",
     "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，自定义name和desc qx.stoverride?n=名字+简介 surge同理，当缺省名字时，仅修改desc，name为文件名，当简介缺省时，同时修改name和desc，bug反馈：https://t.me/zhangpeifu，更新日期23.1.8",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "WeChat Article Cleaner",
+    "desc": "Block WeChat's in-article reporting and ads.[微信文章][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "汇率监控",
