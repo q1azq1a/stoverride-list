@@ -147,16 +147,16 @@
     "repo": "rule"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
+    "name": "微信公众号去广告",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "微信公众号去广告",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -357,18 +357,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "BiliBili 去广告（兼容国际版）",
     "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "扫描全能王",
@@ -756,16 +756,16 @@
     "repo": "rules"
   },
   {
-    "name": "iCloud",
-    "desc": "Unlock some regional features of iCloud.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "name": "iCloud",
+    "desc": "Unlock some regional features of iCloud.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -798,6 +798,13 @@
     "repo": "Module"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
@@ -817,13 +824,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "重写去广告",
@@ -861,18 +861,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "PixivShow",
-    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "直连+代理IP地址信息",
     "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6 使用前请配置分流规则：域名 wtfismyip.com 使用直连，域名 ipgeolocation.io 使用代理",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "PixivShow",
+    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Weather",
@@ -952,6 +952,13 @@
     "repo": "scripts"
   },
   {
+    "name": "百度网盘解锁倍速",
+    "desc": "仅解锁倍速清晰度",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
@@ -964,13 +971,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "百度网盘解锁倍速",
-    "desc": "仅解锁倍速清晰度",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "Siri",
@@ -1064,6 +1064,13 @@
     "repo": "rule"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "TV",
     "desc": "Unlock some regional features of TV.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
@@ -1090,13 +1097,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
   },
   {
     "name": "豆瓣影视",
