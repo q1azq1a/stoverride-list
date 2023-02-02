@@ -931,6 +931,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
@@ -941,13 +948,6 @@
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "Google重定向",
-    "desc": "将google.cn/google.com.hk重定向回google.com",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
