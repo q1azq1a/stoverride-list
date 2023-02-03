@@ -322,18 +322,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 Youtube 广告 (IOS >= 15)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "TikTok解锁-美国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "BoxJs",
@@ -462,18 +462,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "10010v3(dev)",
@@ -637,18 +637,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "WeChat Article Cleaner",
     "desc": "Block WeChat's in-article reporting and ads.[微信文章][隐私][追踪][广告]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "策略检测 Tile 面板",
