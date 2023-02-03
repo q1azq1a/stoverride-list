@@ -420,18 +420,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "vip 解锁合集",
-    "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "Spotify解锁(>=iOS15)",
     "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "vip 解锁合集",
+    "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "百度搜索防跳转",
@@ -560,18 +560,18 @@
     "repo": "rule"
   },
   {
-    "name": "哔哩哔哩魔改",
-    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "哔哩哔哩魔改",
+    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": " iRingo for News",
@@ -623,18 +623,18 @@
     "repo": "stash"
   },
   {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "贴吧去广告(>=iOS15)",
@@ -1015,6 +1015,13 @@
     "repo": "scripts"
   },
   {
+    "name": "自动加入 TestFlight(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "PlaneFinder",
     "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
@@ -1027,13 +1034,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "自动加入 TestFlight(β)",
-    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "哔哩哔哩番剧监控",
@@ -1050,18 +1050,18 @@
     "repo": "rule"
   },
   {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "TV",
