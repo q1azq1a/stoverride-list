@@ -455,18 +455,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for Siri & Search",
-    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": " iRingo for Siri & Search",
+    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本",
