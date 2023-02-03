@@ -231,6 +231,13 @@
     "repo": "rule"
   },
   {
+    "name": "YouTube首页去广告",
+    "desc": "仅去除首页瀑布流广告(≥iOS15)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/YouTube.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Bilibili",
     "desc": "Bilibili去广告Plus",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
@@ -241,13 +248,6 @@
     "name": "微博",
     "desc": "去除微博广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "YouTube首页去广告",
-    "desc": "仅去除首页瀑布流广告(≥iOS15)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/YouTube.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -490,18 +490,18 @@
     "repo": "rule"
   },
   {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "屏蔽QUIC",
     "desc": "防止哔哩哔哩等产生大量连接占用资源",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "重定向",
