@@ -337,7 +337,7 @@
   },
   {
     "name": "BoxJs",
-    "desc": "http://boxjs.com",
+    "desc": "http://boxjs.net",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
     "repo": "scripts"
