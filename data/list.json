@@ -441,18 +441,18 @@
     "repo": "rule"
   },
   {
-    "name": "IP 网络信息 Tile 面板",
-    "desc": "包含国内和国外. 自己设置对应域名的分流",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "IP 网络信息 Tile 面板",
+    "desc": "包含国内和国外. 自己设置对应域名的分流",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sub-Store",
@@ -532,16 +532,16 @@
     "repo": "rule"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "name": "BoxJS",
+    "desc": "安装后访问http://boxjs.com/进入",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "BoxJS",
-    "desc": "安装后访问http://boxjs.com/进入",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -595,13 +595,6 @@
     "repo": "stash"
   },
   {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
@@ -609,11 +602,11 @@
     "repo": "Rules"
   },
   {
-    "name": "Epic周免",
-    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "屏蔽 HTTP3 / QUIC",
@@ -623,11 +616,11 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
+    "name": "Epic周免",
+    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "策略检测 Tile 面板",
@@ -635,6 +628,13 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "扫描全能王",
@@ -966,6 +966,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "实时油价查询",
+    "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "Do-Not-Track My Xiaohongshu",
     "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
@@ -978,13 +985,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "实时油价查询",
-    "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "GitHub 增强",
