@@ -504,6 +504,13 @@
     "repo": "rule"
   },
   {
+    "name": "YouTube Ad&Tracker Blocking (Alternative)",
+    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -523,13 +530,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "YouTube Ad&Tracker Blocking (Alternative)",
-    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
   },
   {
     "name": "BoxJS",
@@ -854,16 +854,16 @@
     "repo": "rule"
   },
   {
-    "name": "Google重定向",
-    "desc": "将google.cn/google.com.hk重定向回google.com",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1008,6 +1008,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "微博去广告",
+    "desc": "微博&微博轻享版（原国际版）净化",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "News",
     "desc": "Unlock some regional features of News.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
@@ -1055,13 +1062,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "微博去广告",
-    "desc": "微博&微博轻享版（原国际版）净化",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "WARPGuard",
