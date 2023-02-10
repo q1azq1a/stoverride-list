@@ -609,6 +609,13 @@
     "repo": "Cloudflare"
   },
   {
+    "name": "Epic周免",
+    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "策略检测 Tile 面板",
     "desc": "包含国内受限, 国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
@@ -621,13 +628,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Epic周免",
-    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "知乎App去广告",
@@ -1057,6 +1057,13 @@
     "repo": "rule"
   },
   {
+    "name": "微博去广告",
+    "desc": "微博&微博轻享版（原国际版）净化",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
@@ -1076,13 +1083,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "微博去广告",
-    "desc": "微博&微博轻享版（原国际版）净化",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "TV",
