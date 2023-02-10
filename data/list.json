@@ -994,6 +994,13 @@
     "repo": "scripts"
   },
   {
+    "name": "微博去广告",
+    "desc": "微博&微博轻享版（原国际版）净化",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "引用私有库",
     "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
@@ -1006,13 +1013,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "微博去广告",
-    "desc": "微博&微博轻享版（原国际版）净化",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "News",
