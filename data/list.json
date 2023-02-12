@@ -350,18 +350,18 @@
     "repo": "scripts"
   },
   {
-    "name": "酷我音乐",
-    "desc": "By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
@@ -763,18 +763,18 @@
     "repo": "rule"
   },
   {
-    "name": "重写去广告",
-    "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "Emby Plugin",
     "desc": "Emby 官方客户端内调用外部播放器",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "重写去广告",
+    "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "联通余量(v4)",
@@ -1106,6 +1106,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "CloudCone VPS 信息面板",
+    "desc": "查询并显示CloudCone VPS 的信息 CloudCone不提供VPS API，需在Cloudflare Workers上部署此API后端: https://github.com/RS0485/CloudCone-API 运行参数通过脚本进行设置：$persistentStore.write('{ \"email\": \"rs0485@example.com\", \"password\": \"hellopass\", \"vpsid\": \"12345\", \"api_addr\": \"https://cloudcone-api.example.workers.dev\" }', \"cloudcone-vps-options\"); $done({settings: \"ok\"})",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/CloudConeVPS.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "Airplus",
     "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
@@ -1118,13 +1125,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "CloudCone VPS 信息面板",
-    "desc": "查询并显示CloudCone VPS 的信息 CloudCone不提供VPS API，需在Cloudflare Workers上部署此API后端: https://github.com/RS0485/CloudCone-API 运行参数通过脚本进行设置：$persistentStore.write('{ \"email\": \"rs0485@example.com\", \"password\": \"hellopass\", \"vpsid\": \"12345\", \"api_addr\": \"https://cloudcone-api.example.workers.dev\" }', \"cloudcone-vps-options\"); $done({settings: \"ok\"})",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/CloudConeVPS.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "Sileo 嗨客源修复",
