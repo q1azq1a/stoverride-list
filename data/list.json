@@ -413,18 +413,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Netflix评分",
-    "desc": "Netflix视频加入豆瓣、imdb评分",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "vip 解锁合集",
     "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "Netflix评分",
+    "desc": "Netflix视频加入豆瓣、imdb评分",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": " iRingo for TV app",
@@ -441,18 +441,18 @@
     "repo": "rule"
   },
   {
-    "name": "IP 网络信息 Tile 面板",
-    "desc": "包含国内和国外. 自己设置对应域名的分流",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "IP 网络信息 Tile 面板",
+    "desc": "包含国内和国外. 自己设置对应域名的分流",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sub-Store",
@@ -665,18 +665,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "汇率监控",
