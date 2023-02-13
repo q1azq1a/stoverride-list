@@ -1099,18 +1099,18 @@
     "repo": "rule"
   },
   {
-    "name": "Xbox 下载重定向国内 CDN",
-    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "CloudCone VPS 信息面板",
     "desc": "查询并显示CloudCone VPS 的信息 CloudCone不提供VPS API，需在Cloudflare Workers上部署此API后端: https://github.com/RS0485/CloudCone-API 运行参数通过脚本进行设置：$persistentStore.write('{ \"email\": \"rs0485@example.com\", \"password\": \"hellopass\", \"vpsid\": \"12345\", \"api_addr\": \"https://cloudcone-api.example.workers.dev\" }', \"cloudcone-vps-options\"); $done({settings: \"ok\"})",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/CloudConeVPS.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "Xbox 下载重定向国内 CDN",
+    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "Airplus",
