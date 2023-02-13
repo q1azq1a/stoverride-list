@@ -868,18 +868,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "微博去广告",
     "desc": "微博&微博轻享版（原国际版）净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Weather",
