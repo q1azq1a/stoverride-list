@@ -48,6 +48,22 @@
         ]
     },
     {
+        "owner": "DualSubs",
+        "repo": "DualSubs-YouTube",
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
+    },
+    {
+        "owner": "DualSubs",
+        "repo": "DualSubs-Netflix",
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
+    },
+    {
         "owner": "jnlaoshu",
         "repo": "MySelf",
         "branch": "main",
