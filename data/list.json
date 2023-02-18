@@ -532,18 +532,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "TikTok解锁-韩国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "京东多合一签到",
@@ -854,18 +854,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "全局模式",
-    "desc": "以全局模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "克拉壁纸",
     "desc": "克拉壁纸解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "全局模式",
+    "desc": "以全局模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "脚本转换",
@@ -1022,6 +1022,20 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "BiliBili 海外重定向到 Akamai",
+    "desc": "需要 MitM，支持网页版或网关模式，加载更流畅的 BiliBili 更值得干杯🍻！",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "获取 TestFlight 信息(β)",
     "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
@@ -1043,25 +1057,11 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "哔哩哔哩漫画签到",
     "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "BiliBili 海外重定向到 Akamai",
-    "desc": "需要 MitM，支持网页版或网关模式，加载更流畅的 BiliBili 更值得干杯🍻！",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "WARPGuard",
