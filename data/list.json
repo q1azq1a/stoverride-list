@@ -301,16 +301,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-日本",
+    "name": "TikTok解锁-美国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-美国",
+    "name": "TikTok解锁-日本",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -392,18 +392,18 @@
     "repo": "use-self"
   },
   {
-    "name": "Spotify解锁(>=iOS15)",
-    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Spotify解锁(>=iOS15)",
+    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": " iRingo for 📰 News",
@@ -427,18 +427,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "IP 网络信息 Tile 面板",
-    "desc": "包含国内和国外. 自己设置对应域名的分流",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": " iRingo for 📺 TV app",
     "desc": "(V2) 全面自定义「TV app」功能",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "IP 网络信息 Tile 面板",
+    "desc": "包含国内和国外. 自己设置对应域名的分流",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "百度搜索防跳转",
@@ -497,6 +497,13 @@
     "repo": "StashOverrides"
   },
   {
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -509,13 +516,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "重定向",
@@ -861,18 +861,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "全局模式",
-    "desc": "以全局模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "脚本转换",
     "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "全局模式",
+    "desc": "以全局模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Nicegram会员",
