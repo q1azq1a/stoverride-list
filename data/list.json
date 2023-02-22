@@ -903,18 +903,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "🍿️ DualSubs for ▶️ YouTube",
+    "desc": "(V0.6) YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "Maps",
     "desc": "Unlock some regional features of Maps.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "🍿️ DualSubs for ▶️ YouTube",
-    "desc": "(V0.5) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
   },
   {
     "name": "Force Http Engine",
