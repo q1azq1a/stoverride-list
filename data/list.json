@@ -385,18 +385,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Spotify解锁(>=iOS15)",
-    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "Spotify解锁(>=iOS15)",
+    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "TestFlight账户管理",
@@ -532,18 +532,18 @@
     "repo": "rule"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "重写转换、规则集解析",
@@ -819,18 +819,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "微博去广告",
     "desc": "微博&微博轻享版（原国际版）净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
@@ -1120,17 +1120,17 @@
     "repo": "scripts"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs for ▶️ YouTube feat.ADs",
     "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs-YouTube"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   }
 ]
