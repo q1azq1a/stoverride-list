@@ -882,18 +882,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "百度网盘解锁倍速",
-    "desc": "仅解锁倍速清晰度",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "🍿️ DualSubs for ▶️ YouTube feat.ADs",
     "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs-YouTube"
+  },
+  {
+    "name": "百度网盘解锁倍速",
+    "desc": "仅解锁倍速清晰度",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "PixivShow",
