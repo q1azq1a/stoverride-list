@@ -581,18 +581,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": " iRingo for 📰 News β",
     "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "策略检测 Tile 面板",
@@ -882,13 +882,6 @@
     "repo": "MySelf"
   },
   {
-    "name": "🍿️ DualSubs for ▶️ YouTube feat.ADs",
-    "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
-  },
-  {
     "name": "百度网盘解锁倍速",
     "desc": "仅解锁倍速清晰度",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
@@ -896,11 +889,25 @@
     "repo": "stash"
   },
   {
+    "name": "🍿️ DualSubs for ▶️ YouTube feat.ADs",
+    "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs-YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知（需配合请求体覆写）",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "实时油价查询",
@@ -915,13 +922,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知（需配合请求体覆写）",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
   },
   {
     "name": "日志等级Debug",
