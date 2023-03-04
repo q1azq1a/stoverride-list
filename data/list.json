@@ -742,6 +742,13 @@
     "repo": "rule"
   },
   {
+    "name": "直连+代理IP地址信息",
+    "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6 使用前请配置分流规则：域名 wtfismyip.com 使用直连，域名 ipgeolocation.io 使用代理 支持设置仅显示直连、仅显示代理或显示全部，在脚本编辑器执行代码进行设置: $persistentStore.write('{ \"display\": \"all/direct/proxy\" }', \"ip-geolication-options\"); $done({settings: \"ok\"})",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "微博去广告",
     "desc": "微博&微博轻享版（原国际版）净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
@@ -754,13 +761,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "直连+代理IP地址信息",
-    "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6 使用前请配置分流规则：域名 wtfismyip.com 使用直连，域名 ipgeolocation.io 使用代理 支持设置仅显示直连、仅显示代理或显示全部，在脚本编辑器执行代码进行设置: $persistentStore.write('{ \"display\": \"all/direct/proxy\" }', \"ip-geolication-options\"); $done({settings: \"ok\"})",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "Google无缝翻页",
@@ -931,6 +931,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "New Bing 聊天修复",
+    "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "GitHub 增强",
     "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
@@ -957,13 +964,6 @@
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
-  },
-  {
-    "name": "New Bing 聊天修复",
-    "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "豆瓣影视",
