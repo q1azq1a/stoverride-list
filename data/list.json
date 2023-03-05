@@ -343,18 +343,18 @@
     "repo": "scripts"
   },
   {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "Spotify解锁(>=iOS15)",
@@ -483,18 +483,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for 🔍 Siri & Search",
-    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": " iRingo for 🔍 Siri & Search",
+    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
