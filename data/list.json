@@ -903,6 +903,13 @@
     "repo": "rule"
   },
   {
+    "name": "Do-Not-Track My Xiaohongshu",
+    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
+  },
+  {
     "name": "BiliBili 海外 CDN 重定向",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
@@ -922,13 +929,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "Do-Not-Track My Xiaohongshu",
-    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
   },
   {
     "name": "BoxJs",
