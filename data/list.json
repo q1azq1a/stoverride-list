@@ -840,6 +840,13 @@
     "repo": "rule"
   },
   {
+    "name": "New Bing 聊天修复",
+    "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "百度网盘解锁倍速",
     "desc": "仅解锁倍速清晰度",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
@@ -852,13 +859,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "New Bing 聊天修复",
-    "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "Nicegram会员",
@@ -903,6 +903,13 @@
     "repo": "rule"
   },
   {
+    "name": "BiliBili 海外 CDN 重定向",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "Gist 备份",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
@@ -915,13 +922,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "BiliBili 海外 CDN 重定向",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "直连模式",
