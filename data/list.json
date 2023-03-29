@@ -889,16 +889,16 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Q-Search",
-    "desc": "快捷切换聚合搜索引擎",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
+    "name": "百度搜索网页去广告",
+    "desc": "移除百度搜索移动端网页的广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "百度搜索网页去广告",
-    "desc": "移除百度搜索移动端网页的广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
+    "name": "Q-Search",
+    "desc": "快捷切换聚合搜索引擎",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
