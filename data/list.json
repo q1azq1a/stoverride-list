@@ -1001,18 +1001,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "哔哩哔哩漫画签到",
-    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "哔哩哔哩漫画签到",
+    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "哔哩哔哩番剧监控",
