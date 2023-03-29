@@ -217,18 +217,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "🍿️ DualSubs for 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": "微博",
     "desc": "去除微博广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "🍿️ DualSubs for 🎦 Streaming Media",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
   },
   {
     "name": "财新会员",
@@ -238,18 +238,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 YouTube 广告 (IOS >= 15)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Google 重定向修改版",
