@@ -63,18 +63,18 @@
     "repo": "rule"
   },
   {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
-  },
-  {
     "name": "TikTok解锁-日本",
     "desc": "解锁日本地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
   },
   {
     "name": "去广告",
@@ -231,18 +231,18 @@
     "repo": "DualSubs"
   },
   {
-    "name": "财新会员",
-    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 YouTube 广告 (IOS >= 15)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "财新会员",
+    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Bilibili",
@@ -336,18 +336,18 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "BoxJs",
@@ -672,13 +672,6 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-法国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 3. 支持在其它浏览器打开 Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
@@ -691,6 +684,13 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "TikTok解锁-法国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "IP Geoloaction",
@@ -777,16 +777,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "Google重定向",
-    "desc": "将google.cn/google.com.hk重定向回google.com",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -938,6 +938,13 @@
     "repo": "scripts"
   },
   {
+    "name": "Bing AI",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制，同时解除IP黑名单限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
@@ -978,13 +985,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "Bing AI",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制，同时解除IP黑名单限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "豆瓣影视",
