@@ -560,18 +560,18 @@
     "repo": "rule"
   },
   {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "Xmind思维导图",
@@ -651,18 +651,18 @@
     "repo": "rules"
   },
   {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面，提示\"出错了\"； 2. 拦截\"资讯\"内容，节省流量； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "TikTok解锁-澳门",
@@ -847,6 +847,13 @@
     "repo": "rule"
   },
   {
+    "name": "Bing AI",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制，同时解除IP黑名单限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
@@ -859,13 +866,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "Bing AI",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制，同时解除IP黑名单限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "实时油价查询",
