@@ -315,18 +315,18 @@
     "repo": "rule"
   },
   {
-    "name": "Notability",
-    "desc": "Notability解锁订阅",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理",
     "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "Notability",
+    "desc": "Notability解锁订阅",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Spotify解锁(>=iOS15)",
@@ -406,6 +406,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": " iRingo for ✈ TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
@@ -418,13 +425,6 @@
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
-  },
-  {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": " iRingo for 📰 News",
@@ -539,18 +539,18 @@
     "repo": "rule"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "策略检测 Tile 面板",
     "desc": "包含国内受限, 国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "重定向",
@@ -959,6 +959,13 @@
     "repo": "scripts"
   },
   {
+    "name": "BoxJs",
+    "desc": "An SPA appliction used for scripts utils.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "自动加入 TestFlight(β)",
     "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
@@ -971,13 +978,6 @@
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
-  },
-  {
-    "name": "BoxJs",
-    "desc": "An SPA appliction used for scripts utils.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
   },
   {
     "name": "获取 TestFlight 信息(β)",
