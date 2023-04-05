@@ -1064,18 +1064,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "记录有多余的 DNS 解析的请求",
-    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "BiliBili优化(白色)",
     "desc": "bilibili去广告及其他优化(白色图标版)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "记录有多余的 DNS 解析的请求",
+    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "网易云音乐去广告",
@@ -1092,18 +1092,18 @@
     "repo": "Module"
   },
   {
-    "name": "知乎去广告增强",
-    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "HTTPDNS Block",
     "desc": "Block common HTTP DNS.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/httpdnsblock.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "知乎去广告增强",
+    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "demo",
