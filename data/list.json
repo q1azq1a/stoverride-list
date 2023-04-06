@@ -1064,6 +1064,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "网易云音乐去广告",
+    "desc": "过滤网易云音乐广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "BiliBili优化(白色)",
     "desc": "bilibili去广告及其他优化(白色图标版)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
@@ -1076,13 +1083,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "网易云音乐去广告",
-    "desc": "过滤网易云音乐广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "电信余量请求体获取",
