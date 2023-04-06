@@ -217,18 +217,18 @@
     "repo": "rule"
   },
   {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 YouTube 广告 (IOS >= 15)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "🍿️ DualSubs for 🎦 Streaming Media",
@@ -1085,18 +1085,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "HTTPDNS Block",
     "desc": "Block common HTTP DNS.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/httpdnsblock.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "记录有多余的 DNS 解析的请求",
@@ -1106,18 +1106,18 @@
     "repo": "scripts"
   },
   {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知（需配合请求体覆写）",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "百度网盘去广告",
     "desc": "过滤百度网盘广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知（需配合请求体覆写）",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "demo",
