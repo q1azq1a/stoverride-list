@@ -1015,18 +1015,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "兼容模式（关闭 Fake IP）",
-    "desc": "仅推荐在网游无法联网时使用",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "网易云音乐去广告",
     "desc": "过滤网易云音乐广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "兼容模式（关闭 Fake IP）",
+    "desc": "仅推荐在网游无法联网时使用",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "哔哩哔哩漫画签到",
