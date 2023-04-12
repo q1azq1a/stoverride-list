@@ -273,18 +273,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "vip 解锁合集",
-    "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "酷我音乐",
     "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "vip 解锁合集",
+    "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "BiliBili 去广告（兼容国际版）",
@@ -511,18 +511,18 @@
     "repo": "rule"
   },
   {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -1106,6 +1106,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "📺 BiliBili: 🌐 Global",
+    "desc": "哔哩哔哩：全球模式                                   （通用版内容聚合及自动线路）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Global"
+  },
+  {
     "name": "记录有多余的 DNS 解析的请求",
     "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
@@ -1127,20 +1134,6 @@
     "repo": "Module"
   },
   {
-    "name": "demo",
-    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
-    "name": "📺 BiliBili: 🌐 Global",
-    "desc": "哔哩哔哩：全球模式                                   （通用版内容聚合及自动线路）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Global"
-  },
-  {
     "name": "📺 BiliBili: 🧰 Enhanced",
     "desc": "哔哩哔哩：增强模式                                   （通用版界面自定义及功能增强）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
@@ -1148,11 +1141,32 @@
     "repo": "Enhanced"
   },
   {
+    "name": "demo",
+    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "📺 BiliIntl: 🌐 Global",
     "desc": "哔哩国际：全球模式                                   （国际版内容聚合及自动线路）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliIntl.Global.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "🍟 Fries: 🌐 ASN China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
+  },
+  {
+    "name": "🍟 Fries: 🚫 Block HTTPDNS",
+    "desc": "阻止常见的 HTTPDNS 服务器",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "Sileo 嗨客源修复",
@@ -1167,20 +1181,6 @@
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliIntl.Enhanced.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
-  },
-  {
-    "name": "🍟 Fries: 🚫 Block HTTPDNS",
-    "desc": "阻止常见的 HTTPDNS 服务器",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
-    "name": "🍟 Fries: 🌐 ASN China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
   },
   {
     "name": "🍟 Fries: 🌐 DNS enhanced",
