@@ -665,18 +665,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-澳门",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "微博去广告",
     "desc": "微博&微博轻享版（原国际版）净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "TikTok解锁-澳门",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-法国",
@@ -889,16 +889,16 @@
     "repo": "Mononoke"
   },
   {
-    "name": "新冠疫情查询 Tile 面板",
-    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
+    "name": "网易云音乐去广告",
+    "desc": "过滤网易云音乐广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "网易云音乐去广告",
-    "desc": "过滤网易云音乐广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
+    "name": "新冠疫情查询 Tile 面板",
+    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1008,6 +1008,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "📺 BiliBili: 🌐 Global",
+    "desc": "哔哩哔哩：全球模式                                   （通用版内容聚合及自动线路）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Global"
+  },
+  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
@@ -1027,13 +1034,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "📺 BiliBili: 🌐 Global",
-    "desc": "哔哩哔哩：全球模式                                   （通用版内容聚合及自动线路）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Global"
   },
   {
     "name": "哔哩哔哩漫画签到",
@@ -1062,6 +1062,13 @@
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "📺 BiliIntl: 🌐 Global",
+    "desc": "哔哩国际：全球模式                                   （国际版内容聚合及自动线路）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliIntl.Global.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Global"
   },
   {
     "name": "执行远程脚本 Tile 面板",
@@ -1099,11 +1106,11 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "📺 BiliIntl: 🌐 Global",
-    "desc": "哔哩国际：全球模式                                   （国际版内容聚合及自动线路）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliIntl.Global.stoverride",
+    "name": "📺 BiliBili: 🧰 Enhanced",
+    "desc": "哔哩哔哩：增强模式                                   （通用版界面自定义及功能增强）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
     "owner": "BiliUniverse",
-    "repo": "Global"
+    "repo": "Enhanced"
   },
   {
     "name": "百度网盘去广告",
@@ -1118,13 +1125,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "📺 BiliBili: 🧰 Enhanced",
-    "desc": "哔哩哔哩：增强模式                                   （通用版界面自定义及功能增强）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
   },
   {
     "name": "记录有多余的 DNS 解析的请求",
@@ -1148,18 +1148,18 @@
     "repo": "Module"
   },
   {
-    "name": "demo",
-    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "🍟 Fries: 🌐 ASN China",
     "desc": "按ASN分流中国大陆IP与域名直连",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "demo",
+    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "🍟 Fries: 🌐 DNS enhanced",
