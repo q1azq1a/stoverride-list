@@ -32,11 +32,11 @@
         ]
     },
     {
-        "owner": "Infatuation-Fei",
-        "repo": "rule",
+        "owner": "VirgilClyne",
+        "repo": "GetSomeFries",
         "branch": "main",
         "paths": [
-            "Stash"
+            "stoverride"
         ]
     },
     {
@@ -61,6 +61,30 @@
         "branch": "main",
         "paths": [
             "stoverride"
+        ]
+    },
+    {
+        "owner": "BiliUniverse",
+        "repo": "Enhanced",
+        "branch": "main",
+        "paths": [
+            "modules"
+        ]
+    },
+    {
+        "owner": "BiliUniverse",
+        "repo": "Global",
+        "branch": "main",
+        "paths": [
+            "modules"
+        ]
+    },
+    {
+        "owner": "Infatuation-Fei",
+        "repo": "rule",
+        "branch": "main",
+        "paths": [
+            "Stash"
         ]
     },
     {
