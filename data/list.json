@@ -973,6 +973,13 @@
     "repo": "scripts"
   },
   {
+    "name": "📺 BiliBili: 🧰 Enhanced",
+    "desc": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
+  },
+  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
@@ -992,13 +999,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "📺 BiliBili: 🧰 Enhanced",
-    "desc": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
   },
   {
     "name": "自动加入 TestFlight(β)",
