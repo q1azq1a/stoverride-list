@@ -1078,18 +1078,18 @@
     "repo": "use-self"
   },
   {
-    "name": "哔哩哔哩番剧监控",
-    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍟 Fries: 🌐 ASN China",
     "desc": "按ASN分流中国大陆IP与域名直连",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "哔哩哔哩番剧监控",
+    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "PlaneFinder",
