@@ -1085,18 +1085,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Airplus",
-    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "Airplus",
+    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "哔哩哔哩番剧监控",
