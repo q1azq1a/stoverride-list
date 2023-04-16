@@ -188,5 +188,13 @@
         "paths": [
             "rewrite"
         ]
+    },
+    {
+        "owner": "Yubyf",
+        "repo": "OpenAI-Checker-Tile",
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
     }
 ]
