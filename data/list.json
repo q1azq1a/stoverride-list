@@ -336,18 +336,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "Stash Insight",
