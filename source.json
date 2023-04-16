@@ -192,7 +192,7 @@
     {
         "owner": "Yubyf",
         "repo": "OpenAI-Checker-Tile",
-        "branch": "main",
+        "branch": "master",
         "paths": [
             "stoverride"
         ]
