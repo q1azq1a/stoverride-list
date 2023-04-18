@@ -301,6 +301,13 @@
     "repo": "rule"
   },
   {
+    "name": "重写去广告",
+    "desc": "根据神机重写去广告修改",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "TikTok解锁-韩国",
     "desc": "解锁韩国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
@@ -313,13 +320,6 @@
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
     "owner": "app2smile",
     "repo": "rules"
-  },
-  {
-    "name": "重写去广告",
-    "desc": "根据神机重写去广告修改",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "TikTok解锁-日本",
