@@ -840,6 +840,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "OpenAI IP Cheker",
+    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
+    "owner": "Yubyf",
+    "repo": "OpenAI-Checker-Tile"
+  },
+  {
     "name": "脚本转换",
     "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
@@ -866,13 +873,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
   },
   {
     "name": "规则模式",
