@@ -819,6 +819,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "OpenAI IP Cheker",
+    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
+    "owner": "Yubyf",
+    "repo": "OpenAI-Checker-Tile"
+  },
+  {
     "name": "百度网盘解锁倍速",
     "desc": "仅解锁倍速清晰度",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
@@ -838,13 +845,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
   },
   {
     "name": "脚本转换",
