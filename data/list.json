@@ -350,18 +350,18 @@
     "repo": "scripts"
   },
   {
-    "name": "重写转换、规则集解析",
-    "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，自定义name和desc qx.stoverride?n=名字+简介 surge同理，当缺省名字时，仅修改desc，name为文件名，当简介缺省时，同时修改name和desc，规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.3.28",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "屏蔽视频网站 P2P 后台上传",
     "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "重写转换、规则集解析",
+    "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，自定义name和desc qx.stoverride?n=名字+简介 surge同理，当缺省名字时，仅修改desc，name为文件名，当简介缺省时，同时修改name和desc，规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.3.28",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "BoxJs",
@@ -420,18 +420,18 @@
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for 📰 News",
-    "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon…",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": " iRingo for 📰 News",
+    "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon…",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "Netflix评分",
@@ -966,18 +966,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "日志等级Debug",
