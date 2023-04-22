@@ -525,16 +525,16 @@
     "repo": "rule"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "name": "TikTok解锁-韩国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -637,18 +637,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "微博去广告",
@@ -1127,18 +1127,18 @@
     "repo": "Module"
   },
   {
-    "name": "BiliBili 重定向到中国大陆正规 CDN 🇨🇳",
-    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global β",
     "desc": "(BETA) 哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "BiliBili 重定向到中国大陆正规 CDN 🇨🇳",
+    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "电信余量",
@@ -1176,18 +1176,18 @@
     "repo": "DualSubs-YouTube"
   },
   {
-    "name": "BiliBili 重定向到中国大陆正规 CDN 🇨🇳",
-    "desc": "🇭🇰 仅适配港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "(V0.6) YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs-YouTube"
+  },
+  {
+    "name": "BiliBili 重定向到中国大陆正规 CDN 🇨🇳",
+    "desc": "🇭🇰 仅适配港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "Sileo 嗨客源修复",
