@@ -189,16 +189,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "YouTube去广告",
-    "desc": "去除 YouTube 广告 (IOS >= 15)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
+    "name": "机场流量信息面板",
+    "desc": "显示机场剩余流量信息以及套餐到期日期",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "机场流量信息面板",
-    "desc": "显示机场剩余流量信息以及套餐到期日期",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
+    "name": "YouTube去广告",
+    "desc": "去除 YouTube 广告 (IOS >= 15)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1148,6 +1148,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube",
+    "desc": "(V0.6) YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
@@ -1160,13 +1167,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "(V0.6) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
   },
   {
     "name": "记录有多余的 DNS 解析的请求",
