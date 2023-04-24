@@ -735,6 +735,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "📺 BiliBili: 🌐 Global",
+    "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Global"
+  },
+  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
@@ -747,13 +754,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "📺 BiliBili: 🌐 Global",
-    "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Global"
   },
   {
     "name": "Emby Plugin",
@@ -910,18 +910,18 @@
     "repo": "GetSomeFries"
   },
   {
-    "name": "BiliBili 海外 CDN 重定向",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "🍟 Fries: 🌐 DNS enhanced",
     "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "BiliBili 海外 CDN 重定向",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "新冠疫情查询 Tile 面板",
@@ -959,18 +959,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Do-Not-Track My Xiaohongshu",
-    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "Do-Not-Track My Xiaohongshu",
+    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "电信余量(自动版)",
