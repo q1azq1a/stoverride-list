@@ -1,16 +1,1 @@
-[
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "(V0.6) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
-    "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
-  }
-]
+[]
