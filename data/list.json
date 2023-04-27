@@ -602,18 +602,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "屏蔽 HTTP3 / QUIC",
     "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": " iRingo for 📰 News β",
@@ -1092,6 +1092,13 @@
     "repo": "rule"
   },
   {
+    "name": "CSDN 免登陆复制代码",
+    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
+  },
+  {
     "name": "兼容模式（关闭 Fake IP）",
     "desc": "仅推荐在网游无法联网时使用",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
@@ -1132,13 +1139,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/httpdnsblock.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "CSDN 免登陆复制代码",
-    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
   },
   {
     "name": "PlaneFinder",
