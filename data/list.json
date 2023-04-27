@@ -672,6 +672,13 @@
     "repo": "rule"
   },
   {
+    "name": "TikTok解锁-法国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "重写去广告",
     "desc": "私人定制整合的重写去广告规则，仅包含几个常见APP",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/ADBlock.stoverride",
@@ -682,13 +689,6 @@
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "TikTok解锁-法国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -1029,6 +1029,13 @@
     "repo": "scripts"
   },
   {
+    "name": "CSDN 免登陆复制代码",
+    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
+  },
+  {
     "name": "BoxJs",
     "desc": "An SPA appliction used for scripts utils.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
@@ -1043,6 +1050,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "百度网盘去广告",
+    "desc": "过滤百度网盘广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "Gist 备份",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
@@ -1050,25 +1064,11 @@
     "repo": "scripts"
   },
   {
-    "name": "CSDN 免登陆复制代码",
-    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
-  },
-  {
     "name": "获取 TestFlight 信息(β)",
     "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "百度网盘去广告",
-    "desc": "过滤百度网盘广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "直连模式",
