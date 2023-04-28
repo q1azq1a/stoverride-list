@@ -112,7 +112,7 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for 🔍 Siri & Search",
+    "name": " iRingo: 🔍 Siri & Search",
     "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
     "owner": "VirgilClyne",
@@ -511,6 +511,13 @@
     "repo": "scripts"
   },
   {
+    "name": "屏蔽 HTTP3 / QUIC",
+    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "知乎App去广告",
     "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
@@ -546,7 +553,7 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for 🔍 Siri & Search",
+    "name": " iRingo: 🔍 Siri & Search β",
     "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
     "owner": "VirgilClyne",
@@ -579,13 +586,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "屏蔽 HTTP3 / QUIC",
-    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
@@ -728,18 +728,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global",
     "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Google重定向",
@@ -917,18 +917,18 @@
     "repo": "Module"
   },
   {
-    "name": "BiliBili 海外 CDN 重定向",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "CSDN 免登陆复制代码",
     "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "BiliBili 海外 CDN 重定向",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "新冠疫情查询 Tile 面板",
