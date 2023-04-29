@@ -364,18 +364,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.net",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "屏蔽 HTTP3 / QUIC",
     "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.net",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "在线规则覆写",
