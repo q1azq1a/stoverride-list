@@ -938,18 +938,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "BiliBili优化(白色)",
-    "desc": "bilibili去广告及其他优化(白色图标版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global β",
     "desc": "(BETA) 哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "BiliBili优化(白色)",
+    "desc": "bilibili去广告及其他优化(白色图标版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
