@@ -315,18 +315,18 @@
     "repo": "rule"
   },
   {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "TikTok解锁-韩国",
     "desc": "解锁韩国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "TikTok解锁-日本",
@@ -1029,18 +1029,18 @@
     "repo": "scripts"
   },
   {
-    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
-    "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
-  },
-  {
     "name": "百度网盘去广告",
     "desc": "过滤百度网盘广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
+    "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
   },
   {
     "name": "BoxJs",
@@ -1099,6 +1099,13 @@
     "repo": "rule"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube",
+    "desc": "(V0.6) YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
@@ -1111,13 +1118,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "(V0.6) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
   },
   {
     "name": "HTTPDNS Block",
