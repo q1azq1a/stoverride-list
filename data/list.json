@@ -273,18 +273,18 @@
     "repo": "use-self"
   },
   {
-    "name": "Nicegram会员",
-    "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "BiliBili 去广告（兼容国际版）",
     "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Nicegram会员",
+    "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "酷我音乐",
@@ -973,18 +973,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "知乎去广告增强",
-    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "知乎去广告增强",
+    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "GitHub 增强",
