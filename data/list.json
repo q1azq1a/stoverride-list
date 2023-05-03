@@ -896,6 +896,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "🍟 Fries: 🌐 ASN China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
+  },
+  {
     "name": "全局模式",
     "desc": "以全局模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
@@ -908,13 +915,6 @@
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
-  },
-  {
-    "name": "🍟 Fries: 🌐 ASN China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
   },
   {
     "name": "电信信息 Tile 面板",
