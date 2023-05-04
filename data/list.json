@@ -287,18 +287,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "酷我音乐",
-    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Spotify解锁(>=iOS15)",
@@ -434,18 +434,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "bilibili去广告(>=iOS15)",
-    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "Netflix评分",
     "desc": "Netflix视频加入豆瓣、imdb评分",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "bilibili去广告(>=iOS15)",
+    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": " iRingo for 📰 News",
@@ -637,18 +637,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Epic周免",
-    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "Epic周免",
+    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "扫描全能王",
@@ -973,6 +973,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "知乎去广告增强",
+    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
@@ -985,13 +992,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "知乎去广告增强",
-    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "百度网盘去广告",
@@ -1008,18 +1008,18 @@
     "repo": "scripts"
   },
   {
-    "name": "引用私有库",
-    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
     "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs-YouTube"
+  },
+  {
+    "name": "引用私有库",
+    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "Force Http Engine",
@@ -1176,18 +1176,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "记录有多余的 DNS 解析的请求",
-    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock β",
     "desc": "(BETA) 哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
+  },
+  {
+    "name": "记录有多余的 DNS 解析的请求",
+    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "BiliBili 重定向到中国大陆正规 CDN 🇨🇳",
