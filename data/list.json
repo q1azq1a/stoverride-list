@@ -966,6 +966,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "📺 BiliBili: 🛡️ ADBlock β",
+    "desc": "(BETA) 哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
@@ -978,13 +985,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "📺 BiliBili: 🛡️ ADBlock β",
-    "desc": "(BETA) 哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
   },
   {
     "name": "电信余量(自动版)",
