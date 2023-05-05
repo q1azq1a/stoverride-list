@@ -707,6 +707,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "📺 BiliBili: 🌐 Global",
+    "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Global"
+  },
+  {
     "name": "有道云笔记",
     "desc": "解锁VIP高级功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
@@ -719,13 +726,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "📺 BiliBili: 🌐 Global",
-    "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Global"
   },
   {
     "name": "Google重定向",
@@ -1001,6 +1001,13 @@
     "repo": "scripts"
   },
   {
+    "name": "📺 BiliBili: 🛡️ ADBlock β",
+    "desc": "(BETA) 哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
+  },
+  {
     "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
     "desc": "(V0.6) YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
@@ -1013,13 +1020,6 @@
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
-  },
-  {
-    "name": "📺 BiliBili: 🛡️ ADBlock β",
-    "desc": "(BETA) 哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
   },
   {
     "name": "Force Http Engine",
