@@ -301,18 +301,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "酷我音乐",
-    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "Stash Insight",
     "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Spotify解锁(>=iOS15)",
@@ -469,18 +469,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "YouTube Ad&Tracker Blocking (Alternative)",
-    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "屏蔽QUIC",
     "desc": "防止哔哩哔哩等产生大量连接占用资源",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "YouTube Ad&Tracker Blocking (Alternative)",
+    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "Sub-Store",
