@@ -84,16 +84,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向回 google.com",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向回 google.com",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -301,18 +301,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "Spotify解锁(>=iOS15)",
     "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 http://clash.insight:9090/html 查看分析报告；访问 http://clash.insight:9090/json 获取API数据",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "酷我音乐",
@@ -903,18 +903,18 @@
     "repo": "rule"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock β",
     "desc": "(BETA) 哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "📺 BiliBili: 🌐 Global β",
