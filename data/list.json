@@ -252,18 +252,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理",
-    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "🌟 屏蔽 HTTP3 / QUIC 🌟",
     "desc": "• 部分代理协议（如 Vmess）缺陷，不支持代理 UDP\n• QUIC 会导致部分 HTTP Engine 高级功能失效\n• 一些运营商可能对 QUIC 协议进行 QoS，将其作为低优先级流量进行处理",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理",
+    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "京东比价",
@@ -1188,5 +1188,12 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": " Apple Accelerated Download",
+    "desc": "iosapps.itunes.apple.com 以及相关 CDN 域名指向 Apple 🇭🇰 源站",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   }
 ]
