@@ -763,18 +763,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "流利说·阅读",
-    "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "📺 BiliBili: ⚙ Enhanced",
     "desc": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
+  },
+  {
+    "name": "流利说·阅读",
+    "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Google无缝翻页",
