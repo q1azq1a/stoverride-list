@@ -987,18 +987,18 @@
     "repo": "DualSubs-YouTube"
   },
   {
-    "name": "百度网盘去广告",
-    "desc": "过滤百度网盘广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "百度网盘去广告",
+    "desc": "过滤百度网盘广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "PixivShow",
