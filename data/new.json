@@ -12,12 +12,5 @@
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.Apple.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
-  },
-  {
-    "name": " Apple Accelerated Download",
-    "desc": "iosapps.itunes.apple.com 以及相关 CDN 域名指向 Apple 🇭🇰 源站",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   }
 ]
