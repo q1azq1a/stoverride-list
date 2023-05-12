@@ -742,16 +742,16 @@
     "repo": "Enhanced"
   },
   {
-    "name": "Bing AI",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
+    "name": "彩云天气SVIP",
+    "desc": "彩云天气会员解锁",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "彩云天气SVIP",
-    "desc": "彩云天气会员解锁",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
+    "name": "Bing AI",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
