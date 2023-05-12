@@ -217,16 +217,16 @@
     "repo": "rule"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -1197,18 +1197,18 @@
     "repo": "scripts"
   },
   {
-    "name": "🍿️ DualSubs: TV & Fitness",
-    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.Apple.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
+  },
+  {
+    "name": "🍿️ DualSubs: TV & Fitness",
+    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.Apple.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
   },
   {
     "name": "Sileo 嗨客源修复",
