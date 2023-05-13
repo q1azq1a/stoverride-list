@@ -1127,6 +1127,13 @@
     "repo": "rule"
   },
   {
+    "name": "📺 BiliBili: 🛡️ ADBlock",
+    "desc": "哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
+  },
+  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
@@ -1146,13 +1153,6 @@
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
-  },
-  {
-    "name": "📺 BiliBili: 🛡️ ADBlock",
-    "desc": "哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
   },
   {
     "name": "哔哩哔哩番剧监控",
