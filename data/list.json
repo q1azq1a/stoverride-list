@@ -239,7 +239,7 @@
   },
   {
     "name": "🍿️ DualSubs: 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
@@ -1205,7 +1205,7 @@
   },
   {
     "name": "🍿️ DualSubs: TV & Fitness",
-    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块",
+    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.Apple.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
