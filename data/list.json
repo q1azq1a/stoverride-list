@@ -875,18 +875,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
+  },
+  {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "📺 BiliBili: 🛡️ ADBlock β",
