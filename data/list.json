@@ -1197,18 +1197,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "demo",
-    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "🍿️ DualSubs: TV & Fitness",
     "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.Apple.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "demo",
+    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sileo 嗨客源修复",
