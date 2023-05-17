@@ -483,18 +483,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "Sub-Store",
-    "desc": "高级订阅管理工具",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "策略检测 Tile 面板",
     "desc": "包含国内受限, 国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "Sub-Store",
+    "desc": "高级订阅管理工具",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本",
