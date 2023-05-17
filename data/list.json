@@ -294,6 +294,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "Stash Insight",
+    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 https://rs0485.eu.org/insight/html 查看分析报告；访问 https://rs0485.eu.org/insight/json 获取API数据",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "Spotify解锁(>=iOS15)",
     "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
@@ -306,13 +313,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "Stash Insight",
-    "desc": "本模块提供全面的Stash流量分析及规则优化建议，包含一个面板组件+网页分析报告+json API。 启用此模块后访问 https://rs0485.eu.org/insight/html 查看分析报告；访问 https://rs0485.eu.org/insight/json 获取API数据",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "酷我音乐",
@@ -1057,6 +1057,13 @@
     "repo": "scripts"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube",
+    "desc": "YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
@@ -1069,13 +1076,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
   },
   {
     "name": "直连模式",
