@@ -224,18 +224,18 @@
     "repo": "rule"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🌟 屏蔽 HTTP3 / QUIC 🌟",
     "desc": "• 部分代理协议（如 Vmess）缺陷，不支持代理 UDP\n• QUIC 会导致部分 HTTP Engine 高级功能失效\n• 一些运营商可能对 QUIC 协议进行 QoS，将其作为低优先级流量进行处理",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "🍿️ DualSubs: 🎦 Streaming Media",
