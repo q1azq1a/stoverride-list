@@ -868,18 +868,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "📺 BiliBili: 🛡️ ADBlock β",
-    "desc": "(BETA) 哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
-  },
-  {
     "name": "百度搜索网页去广告",
     "desc": "移除百度搜索移动端网页的广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "📺 BiliBili: 🛡️ ADBlock β",
+    "desc": "(BETA) 哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
   },
   {
     "name": "每周循环信息展示 Tile 面板",
@@ -945,6 +945,13 @@
     "repo": "Global"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
+    "desc": "YouTube字幕增强及双语模块(配合去广告)",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs-YouTube"
+  },
+  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
@@ -957,13 +964,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
-    "desc": "YouTube字幕增强及双语模块(配合去广告)",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs-YouTube"
   },
   {
     "name": "BiliBili 海外 CDN 重定向",
