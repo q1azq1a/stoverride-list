@@ -1,5 +1,12 @@
 [
   {
+    "name": "🍿️ DualSubs: TV & Fitness",
+    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/stoverride/DualSubs.Apple.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
+  },
+  {
     "name": "ChatGPT Plus解锁",
     "desc": "ChatGPT 解锁 Plus 订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
