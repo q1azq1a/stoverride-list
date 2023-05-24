@@ -1099,6 +1099,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "ChatGPT Plus解锁",
+    "desc": "ChatGPT 解锁 Plus 订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
@@ -1111,13 +1118,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "ChatGPT Plus解锁",
-    "desc": "ChatGPT 解锁 Plus 订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "哔哩哔哩漫画签到",
