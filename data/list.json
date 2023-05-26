@@ -602,18 +602,18 @@
     "repo": "Rules"
   },
   {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "Xmind思维导图",
     "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -777,18 +777,18 @@
     "repo": "Enhanced"
   },
   {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
-  },
-  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "OpenAI IP Cheker",
+    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
+    "owner": "Yubyf",
+    "repo": "OpenAI-Checker-Tile"
   },
   {
     "name": "Google无缝翻页",
@@ -1001,6 +1001,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "引用私有库",
+    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
@@ -1013,13 +1020,6 @@
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs-YouTube"
-  },
-  {
-    "name": "引用私有库",
-    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "GitHub 增强",
