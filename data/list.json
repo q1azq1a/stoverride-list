@@ -847,6 +847,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "ChatGPT Plus解锁",
+    "desc": "ChatGPT 解锁 Plus 订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "百度搜索网页去广告",
     "desc": "移除百度搜索移动端网页的广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
@@ -866,13 +873,6 @@
     "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Enhanced"
-  },
-  {
-    "name": "ChatGPT Plus解锁",
-    "desc": "ChatGPT 解锁 Plus 订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "Nicegram会员",
@@ -1197,6 +1197,13 @@
     "repo": "scripts"
   },
   {
+    "name": "🍿️ DualSubs: 🎦 Streaming Media",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
+  },
+  {
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
@@ -1207,13 +1214,6 @@
     "name": "🍿️ DualSubs: TV & Fitness",
     "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/stoverride/DualSubs.Apple.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
-    "name": "🍿️ DualSubs: 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
   }
