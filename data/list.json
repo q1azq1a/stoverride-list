@@ -840,18 +840,18 @@
     "repo": "GetSomeFries"
   },
   {
-    "name": "iRingo",
-    "desc": "Unlock some regional features of Apple services.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "ChatGPT Plus解锁",
     "desc": "ChatGPT 解锁 Plus 订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "iRingo",
+    "desc": "Unlock some regional features of Apple services.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "百度搜索网页去广告",
@@ -1204,17 +1204,17 @@
     "repo": "DualSubs"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: TV & Fitness",
     "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/stoverride/DualSubs.Apple.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   }
 ]
