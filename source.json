@@ -41,7 +41,15 @@
     },
     {
         "owner": "DualSubs",
-        "repo": "DualSubs",
+        "repo": "Universal",
+        "branch": "main",
+        "paths": [
+            "modules"
+        ]
+    },
+    {
+        "owner": "DualSubs",
+        "repo": "YouTube",
         "branch": "main",
         "paths": [
             "stoverride"
@@ -49,15 +57,7 @@
     },
     {
         "owner": "DualSubs",
-        "repo": "DualSubs-YouTube",
-        "branch": "main",
-        "paths": [
-            "stoverride"
-        ]
-    },
-    {
-        "owner": "DualSubs",
-        "repo": "DualSubs-Netflix",
+        "repo": "Netflix",
         "branch": "main",
         "paths": [
             "stoverride"
@@ -74,6 +74,14 @@
     {
         "owner": "BiliUniverse",
         "repo": "Global",
+        "branch": "main",
+        "paths": [
+            "modules"
+        ]
+    },
+        {
+        "owner": "BiliUniverse",
+        "repo": "ADBlock",
         "branch": "main",
         "paths": [
             "modules"
