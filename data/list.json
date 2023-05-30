@@ -309,7 +309,7 @@
   },
   {
     "name": "重写转换、规则集解析",
-    "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，自定义name和desc qx.stoverride?n=名字+简介 surge同理，当缺省名字时，仅修改desc，name为文件名，当简介缺省时，同时修改name和desc，规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.5.30",
+    "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.5.30",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
@@ -700,6 +700,13 @@
     "repo": "rule"
   },
   {
+    "name": "Bing AI",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "TikTok解锁-法国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
@@ -719,13 +726,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Bing AI",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "网易云音乐去广告",
@@ -903,18 +903,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
-    "desc": "YouTube字幕增强及双语模块(配合去广告)",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
-    "owner": "DualSubs",
-    "repo": "YouTube"
-  },
-  {
     "name": "CSDN 免登陆复制代码",
     "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
+    "desc": "YouTube字幕增强及双语模块(配合去广告)",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
+    "owner": "DualSubs",
+    "repo": "YouTube"
   },
   {
     "name": "规则模式",
