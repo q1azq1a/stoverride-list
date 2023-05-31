@@ -721,13 +721,6 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-法国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "网易云音乐去广告",
     "desc": "过滤网易云音乐广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
@@ -735,11 +728,11 @@
     "repo": "Mononoke"
   },
   {
-    "name": "📺 BiliBili: 🛡️ ADBlock",
-    "desc": "哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
+    "name": "TikTok解锁-法国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "有道云笔记",
@@ -747,6 +740,13 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "📺 BiliBili: 🛡️ ADBlock",
+    "desc": "哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
   },
   {
     "name": "IP Geoloaction",
@@ -770,18 +770,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "🍟 Fries: 🌐 DNS enhanced",
     "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "OpenAI IP Cheker",
@@ -924,18 +924,18 @@
     "repo": "rule"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global β",
     "desc": "(BETA) 哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
