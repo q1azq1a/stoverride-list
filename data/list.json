@@ -882,6 +882,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "知乎去广告增强",
     "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
@@ -894,13 +901,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "CSDN 免登陆复制代码",
