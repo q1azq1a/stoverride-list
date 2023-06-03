@@ -595,6 +595,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
+  },
+  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
     "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
@@ -607,13 +614,6 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
-  },
-  {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
   },
   {
     "name": "📺 BiliBili: 🌐 Global",
@@ -1050,6 +1050,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "日志等级Debug",
+    "desc": "Stash日志等级debug才会显示网络请求日志",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
@@ -1062,13 +1069,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "日志等级Debug",
-    "desc": "Stash日志等级debug才会显示网络请求日志",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "获取 TestFlight 信息(β)",
@@ -1211,18 +1211,18 @@
     "repo": "Universal"
   },
   {
-    "name": "demo",
-    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "Fake IP Fixer",
     "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "demo",
+    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sileo 嗨客源修复",
