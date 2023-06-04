@@ -784,18 +784,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "OpenAI IP Cheker",
     "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
     "owner": "Yubyf",
     "repo": "OpenAI-Checker-Tile"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "流利说·阅读",
@@ -1022,6 +1022,13 @@
     "repo": "stash"
   },
   {
+    "name": "去广告规则",
+    "desc": "分流去广告(或存在误杀，谨慎使用)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
@@ -1034,13 +1041,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "去广告规则",
-    "desc": "分流去广告(或存在误杀，谨慎使用)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "Force Http Engine",
