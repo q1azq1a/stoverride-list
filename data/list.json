@@ -595,6 +595,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "Xmind思维导图",
+    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  },
+  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
@@ -607,13 +614,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
-  },
-  {
-    "name": "Xmind思维导图",
-    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
   },
   {
     "name": "贴吧去广告(>=iOS15)",
@@ -1162,18 +1162,18 @@
     "repo": "rule"
   },
   {
-    "name": "哔哩哔哩番剧监控",
-    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "PlaneFinder",
     "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "哔哩哔哩番剧监控",
+    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "电信余量",
