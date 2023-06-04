@@ -595,18 +595,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Xmind思维导图",
-    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": "Xmind思维导图",
+    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
