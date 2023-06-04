@@ -1085,18 +1085,18 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJs",
-    "desc": "An SPA appliction used for scripts utils.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "去广告规则",
     "desc": "分流去广告(或存在误杀，谨慎使用)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "An SPA appliction used for scripts utils.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "执行远程脚本 Tile 面板",
