@@ -756,16 +756,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
+    "name": "ChatGPT Plus解锁",
+    "desc": "ChatGPT 解锁 Plus 订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "ChatGPT Plus解锁",
-    "desc": "ChatGPT 解锁 Plus 订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
+    "name": "Emby Plugin",
+    "desc": "Emby 官方客户端内调用外部播放器",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1106,18 +1106,18 @@
     "repo": "scripts"
   },
   {
-    "name": "执行远程脚本 Tile 面板",
-    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "Block Bad UDP",
     "desc": "拦截被DNS污染和针对YouTube的UDP请求，对其他UDP请求仍按设定规则匹配和转发，尽可能保留完整的UDP体验。 兼容YouTube去广告覆写，建议使用Stash Insight覆写模块进行UDP诊断。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/BlockBadUDP.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "执行远程脚本 Tile 面板",
+    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "HTTPDNS Block",
