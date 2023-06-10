@@ -302,7 +302,7 @@
   },
   {
     "name": "重写转换、规则集解析",
-    "desc": "QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.6.5",
+    "desc": "QX重写/Surge模块/Loon插件转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加surge.stoverride，loon模块链接末尾加loon.stoverride,规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.6.10",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
@@ -511,18 +511,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-新加坡",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "TikTok解锁-新加坡",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -910,18 +910,18 @@
     "repo": "rule"
   },
   {
-    "name": "🍟 Fries: 🚫 Block HTTPDNS",
-    "desc": "阻止常见的 HTTPDNS 服务器",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "电信信息 Tile 面板",
     "desc": "电信信息面板",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "🍟 Fries: 🚫 Block HTTPDNS",
+    "desc": "阻止常见的 HTTPDNS 服务器",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "BiliBili优化(白色)",
@@ -987,18 +987,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "新冠疫情查询 Tile 面板",
-    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": " Apple Accelerated Download",
     "desc": "Apple 相关 CDN 域名指向 Apple 香港源站：\n• 🏬 iOS & Mac AppStore\n• 🎵 Apple Music\n• ⚙️ Apple Developer",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "新冠疫情查询 Tile 面板",
+    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "Q-Search",
