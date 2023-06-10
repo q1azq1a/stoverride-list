@@ -302,7 +302,7 @@
   },
   {
     "name": "重写转换、规则集解析",
-    "desc": "QX重写/Surge模块/Loon插件转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加surge.stoverride，loon模块链接末尾加loon.stoverride,规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.6.10",
+    "desc": "QX重写/Surge模块/Loon插件转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加surge.stoverride，loon插件链接末尾加loon.stoverride,规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.6.10",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
@@ -791,18 +791,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "🍟 Fries: 🌐 ASN China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "Google无缝翻页",
     "desc": "谷歌网页搜索自动无缝翻页",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "🍟 Fries: 🌐 ASN China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "流利说·阅读",
@@ -826,6 +826,13 @@
     "repo": "stash"
   },
   {
+    "name": "百度搜索网页去广告",
+    "desc": "移除百度搜索移动端网页的广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "克拉壁纸",
     "desc": "克拉壁纸解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
@@ -836,13 +843,6 @@
     "name": "知乎去广告增强",
     "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "百度搜索网页去广告",
-    "desc": "移除百度搜索移动端网页的广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
