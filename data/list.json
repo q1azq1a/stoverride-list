@@ -826,6 +826,13 @@
     "repo": "stash"
   },
   {
+    "name": "百度搜索网页去广告",
+    "desc": "移除百度搜索移动端网页的广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "克拉壁纸",
     "desc": "克拉壁纸解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
@@ -836,13 +843,6 @@
     "name": "知乎去广告增强",
     "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "百度搜索网页去广告",
-    "desc": "移除百度搜索移动端网页的广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -868,18 +868,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
     "desc": "YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Nicegram会员",
