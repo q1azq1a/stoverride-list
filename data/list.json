@@ -728,18 +728,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-法国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍟 Fries: 🌐 DNS enhanced",
     "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "TikTok解锁-法国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "有道云笔记",
@@ -1064,18 +1064,18 @@
     "repo": "scripts"
   },
   {
-    "name": "直连模式",
-    "desc": "以直连模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Block Bad UDP",
     "desc": "拦截被DNS污染和针对YouTube的UDP请求，对其他UDP请求仍按设定规则匹配和转发，尽可能保留完整的UDP体验。 兼容YouTube去广告覆写，建议使用Stash Insight覆写模块进行UDP诊断。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/BlockBadUDP.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "直连模式",
+    "desc": "以直连模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "获取 TestFlight 信息(β)",
