@@ -714,6 +714,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "🍟 Fries: 🌐 DNS enhanced",
+    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
+  },
+  {
     "name": "TikTok解锁-澳门",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
@@ -726,13 +733,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "🍟 Fries: 🌐 DNS enhanced",
-    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
   },
   {
     "name": "TikTok解锁-法国",
@@ -896,18 +896,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "CSDN 免登陆复制代码",
@@ -1169,6 +1169,13 @@
     "repo": "Module"
   },
   {
+    "name": "Fake IP Fixer",
+    "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "记录有多余的 DNS 解析的请求",
     "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
@@ -1181,13 +1188,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Fake IP Fixer",
-    "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "BiliBili 重定向到中国大陆正规 CDN",
