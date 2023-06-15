@@ -994,16 +994,16 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "新冠疫情查询 Tile 面板",
-    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
+    "name": "Q-Search",
+    "desc": "快捷切换聚合搜索引擎",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "Q-Search",
-    "desc": "快捷切换聚合搜索引擎",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
+    "name": "新冠疫情查询 Tile 面板",
+    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1113,18 +1113,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "执行远程脚本 Tile 面板",
-    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "执行远程脚本 Tile 面板",
+    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "HTTPDNS Block",
@@ -1225,16 +1225,16 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "name": "BiliBili每日等级任务",
+    "desc": "定时任务及Cookie获取",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "BiliBili每日等级任务",
-    "desc": "定时任务及Cookie获取",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   }
