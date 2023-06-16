@@ -742,18 +742,18 @@
     "repo": "rule"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "ChatGPT Plus解锁",
     "desc": "ChatGPT 解锁 Plus 订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "IP Geoloaction",
@@ -973,18 +973,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "电信余量(自动版)",
-    "desc": "电信免流跳点通知",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "电信余量(自动版)",
+    "desc": "电信免流跳点通知",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": " Apple Accelerated Download",
