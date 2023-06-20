@@ -609,6 +609,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
+  },
+  {
     "name": "Xmind思维导图",
     "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
@@ -621,13 +628,6 @@
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
-  },
-  {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
@@ -763,18 +763,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
-  },
-  {
     "name": "Emby Plugin",
     "desc": "Emby 官方客户端内调用外部播放器",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "OpenAI IP Cheker",
+    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
+    "owner": "Yubyf",
+    "repo": "OpenAI-Checker-Tile"
   },
   {
     "name": "🍟 Fries: 🌐 ASN China",
