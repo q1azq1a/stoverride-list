@@ -1244,5 +1244,12 @@
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": "AdGuard 会员",
+    "desc": "解锁 AdGuard 会员功能",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   }
 ]
