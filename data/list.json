@@ -574,13 +574,6 @@
     "repo": "rule"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "彩云天气SVIP",
     "desc": "彩云天气会员解锁",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
@@ -588,11 +581,11 @@
     "repo": "Mononoke"
   },
   {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "📺 BiliBili: 🌐 Global",
@@ -600,6 +593,13 @@
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": " iRingo: 🔍 Siri & Search β",
@@ -686,16 +686,16 @@
     "repo": "rule"
   },
   {
-    "name": "Google重定向",
-    "desc": "将google.cn/google.com.hk重定向回google.com",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "name": "网易云音乐去广告",
+    "desc": "过滤网易云音乐广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "网易云音乐去广告",
-    "desc": "过滤网易云音乐广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
