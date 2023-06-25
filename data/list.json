@@ -1106,6 +1106,13 @@
     "repo": "scripts"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "Gist 备份",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
@@ -1116,13 +1123,6 @@
     "name": "BoxJs",
     "desc": "An SPA appliction used for scripts utils.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
