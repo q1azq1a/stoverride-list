@@ -868,18 +868,18 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
@@ -1155,18 +1155,18 @@
     "repo": "Rules"
   },
   {
-    "name": "Airplus",
-    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "Fake IP Fixer",
     "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "Airplus",
+    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "PlaneFinder",
