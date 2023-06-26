@@ -658,16 +658,16 @@
     "repo": "iRingo"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight.stoverride",
+    "name": "Epic周免",
+    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "Epic周免",
-    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -735,16 +735,16 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-法国",
+    "name": "TikTok解锁-澳门",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-澳门",
+    "name": "TikTok解锁-法国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -952,18 +952,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "📺 BiliBili: 🛡️ ADBlock",
-    "desc": "哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "ADBlock"
-  },
-  {
     "name": "全局模式",
     "desc": "以全局模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "📺 BiliBili: 🛡️ ADBlock",
+    "desc": "哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "ADBlock"
   },
   {
     "name": "🍿️ DualSubs: ▶️ YouTube",
@@ -987,18 +987,18 @@
     "repo": "Module"
   },
   {
-    "name": "黑料不打烊",
-    "desc": "定时获取最新黑料（NSFW）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": " Apple Accelerated Download",
     "desc": "Apple 相关 CDN 域名指向 Apple 香港源站：\n• 🏬 iOS & Mac AppStore\n• 🎵 Apple Music\n• ⚙️ Apple Developer",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "黑料不打烊",
+    "desc": "定时获取最新黑料（NSFW）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "Q-Search",
@@ -1085,18 +1085,18 @@
     "repo": "rule"
   },
   {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "获取 TestFlight 信息(β)",
@@ -1183,18 +1183,18 @@
     "repo": "rule"
   },
   {
-    "name": "🍿️ DualSubs: 🎦 Universal",
-    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
-  },
-  {
     "name": "BiliBili每日等级任务",
     "desc": "定时任务及Cookie获取",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "🍿️ DualSubs: 🎦 Universal",
+    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
   },
   {
     "name": "电信余量",
