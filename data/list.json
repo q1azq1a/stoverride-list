@@ -931,18 +931,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "去广告规则",
-    "desc": "分流去广告(或存在误杀，谨慎使用)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "去广告规则",
+    "desc": "分流去广告(或存在误杀，谨慎使用)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "📺 BiliBili: 🌐 Global β",
