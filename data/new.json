@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "电信余量后端",
+    "desc": "开启脚本以及mitm等开关，配合电信余量自动版，安装后访问  https://Telecom.Info/Page/Home 即可配置多账户",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Backend.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
+  }
+]
