@@ -350,18 +350,18 @@
     "repo": "rule"
   },
   {
-    "name": "Notability",
-    "desc": "Notability解锁订阅",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "Notability",
+    "desc": "Notability解锁订阅",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "屏蔽视频网站 P2P 后台上传",
@@ -399,18 +399,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "bilibili去广告(>=iOS15)",
     "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Netflix评分",
@@ -623,18 +623,18 @@
     "repo": "rules"
   },
   {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "Xmind思维导图",
     "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
   },
   {
     "name": "📺 BiliBili: ⚙ Enhanced",
@@ -980,18 +980,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "电信余量(自动版)",
-    "desc": "电信免流跳点通知",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": " Apple Accelerated Download",
     "desc": "Apple 相关 CDN 域名指向 Apple 香港源站：\n• 🏬 iOS & Mac AppStore\n• 🎵 Apple Music\n• ⚙️ Apple Developer",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "电信余量(自动版)",
+    "desc": "电信免流跳点通知",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "黑料不打烊",
@@ -1183,18 +1183,18 @@
     "repo": "Module"
   },
   {
-    "name": "PlaneFinder",
-    "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "PlaneFinder",
+    "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "BiliBili每日等级任务",
