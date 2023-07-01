@@ -630,18 +630,18 @@
     "repo": "Rules"
   },
   {
-    "name": "📺 BiliBili: ⚙ Enhanced",
-    "desc": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "Enhanced"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理 β",
     "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "📺 BiliBili: ⚙ Enhanced",
+    "desc": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "Enhanced"
   },
   {
     "name": "直连+代理IP地址信息",
