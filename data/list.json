@@ -77,18 +77,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -154,7 +154,7 @@
     "repo": "rule"
   },
   {
-    "name": "机场流量信息面板",
+    "name": "机场流量信息 Tile 磁贴",
     "desc": "显示机场剩余流量信息以及套餐到期日期",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
@@ -651,7 +651,7 @@
     "repo": "network-rules"
   },
   {
-    "name": "流媒体信息 Tile 面板",
+    "name": "流媒体信息 Tile 磁贴",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
@@ -896,7 +896,7 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
+    "name": "每周循环信息展示 Tile 磁贴",
     "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
     "owner": "Coldvvater",
@@ -973,18 +973,18 @@
     "repo": "YouTube"
   },
   {
-    "name": "BiliBili 海外 CDN 重定向",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "BiliBili 海外 CDN 重定向",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": " Apple Accelerated Download",
@@ -1029,7 +1029,7 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "新冠疫情查询 Tile 面板",
+    "name": "新冠疫情查询 Tile 磁贴",
     "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
