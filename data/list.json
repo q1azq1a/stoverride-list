@@ -574,18 +574,18 @@
     "repo": "rule"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global",
     "desc": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "DNS",
@@ -805,18 +805,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "知乎去广告增强",
-    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube feat.ADs",
     "desc": "YouTube字幕增强及双语模块(配合去广告)",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.feat.ADs.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "知乎去广告增强",
+    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "流利说·阅读",
@@ -1022,18 +1022,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "新冠疫情查询 Tile 磁贴",
-    "desc": "新冠疫情查询，搭配boxjs使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "BiliBili 重定向到中国大陆正规 CDN",
     "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "新冠疫情查询 Tile 磁贴",
+    "desc": "新冠疫情查询，搭配boxjs使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "GitHub 增强",
@@ -1211,16 +1211,16 @@
     "repo": "rule"
   },
   {
-    "name": "Xbox 下载重定向国内 CDN",
-    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
+    "name": "BiliBili 重定向到正规 CDN",
+    "desc": "🇭🇰 仅适合在中国大陆使用港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
   },
   {
-    "name": "BiliBili 重定向到正规 CDN",
-    "desc": "🇭🇰 仅适合在中国大陆使用港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
+    "name": "Xbox 下载重定向国内 CDN",
+    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
   },
@@ -1239,18 +1239,18 @@
     "repo": "scripts"
   },
   {
-    "name": "Flightradar24 Gold 会员",
-    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "电信余量后端",
     "desc": "开启脚本以及mitm等开关，配合电信余量自动版，安装后访问  https://Telecom.Info/Page/Home 即可配置多账户",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Backend.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "Flightradar24 Gold 会员",
+    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "Sileo 嗨客源修复",
