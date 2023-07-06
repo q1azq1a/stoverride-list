@@ -245,18 +245,18 @@
     "repo": "rule"
   },
   {
-    "name": "Spotify解锁(>=iOS15)",
-    "desc": "部分解锁premium,建议重新登录,并清除缓存,音质不能设置为超高",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "Google 重定向修改版",
     "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "Spotify解锁(>=iOS15)",
+    "desc": "部分解锁premium,建议重新登录,并清除缓存,音质不能设置为超高",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "vip 解锁合集",
@@ -980,18 +980,18 @@
     "repo": "Module"
   },
   {
-    "name": "黑料不打烊",
-    "desc": "定时获取最新黑料（NSFW）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": " Apple Accelerated Download",
     "desc": "Apple 相关 CDN 域名指向 Apple 香港源站：\n• 🏬 iOS & Mac AppStore\n• 🎵 Apple Music\n• ⚙️ Apple Developer",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "黑料不打烊",
+    "desc": "定时获取最新黑料（NSFW）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "BiliBili 海外 CDN 重定向",
@@ -1057,18 +1057,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "引用私有库",
     "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "豆瓣影视",
