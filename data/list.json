@@ -938,18 +938,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "去广告规则",
-    "desc": "分流去广告(或存在误杀，谨慎使用)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "去广告规则",
+    "desc": "分流去广告(或存在误杀，谨慎使用)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "📺 BiliBili: 🌐 Global β",
