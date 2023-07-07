@@ -1057,18 +1057,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "引用私有库",
-    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "引用私有库",
+    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "豆瓣影视",
