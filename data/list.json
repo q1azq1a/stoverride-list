@@ -693,6 +693,13 @@
     "repo": "GetSomeFries"
   },
   {
+    "name": "ChatGPT Plus解锁",
+    "desc": "ChatGPT 解锁 Plus 订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "网易云音乐去广告",
     "desc": "过滤网易云音乐广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
@@ -703,13 +710,6 @@
     "name": "Google重定向",
     "desc": "将google.cn/google.com.hk重定向回google.com",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "ChatGPT Plus解锁",
-    "desc": "ChatGPT 解锁 Plus 订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ChatGPT_Plus_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
