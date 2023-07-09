@@ -259,18 +259,18 @@
     "repo": "Stash"
   },
   {
-    "name": "重写转换、规则集解析",
-    "desc": "现在默认缓存时间为1小时，可使用参数cachexp=修改缓存时间，单位：小时。QX重写/Surge模块/Loon插件转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，loon插件链接末尾加loon.stoverride,规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.7.6",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "vip 解锁合集",
     "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "重写转换、规则集解析",
+    "desc": "现在默认缓存时间为1小时，可使用参数cachexp=修改缓存时间，单位：小时。QX重写/Surge模块/Loon插件转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，loon插件链接末尾加loon.stoverride,规则集链接末尾加r_parser.list，bug反馈：https://t.me/zhangpeifu，更新日期23.7.6",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP 客户端配置管理",
@@ -1008,18 +1008,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Do-Not-Track My Xiaohongshu",
-    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "Block Bad UDP",
     "desc": "拦截被DNS污染和针对YouTube的UDP请求，对其他UDP请求仍按设定规则匹配和转发，尽可能保留完整的UDP体验。 兼容YouTube去广告覆写，建议使用Stash Insight覆写模块进行UDP诊断。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/BlockBadUDP.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "Do-Not-Track My Xiaohongshu",
+    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "Force Http Engine",
