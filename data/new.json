@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Emby Premiere",
+    "desc": "Unlock Emby Premiere.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  }
+]
