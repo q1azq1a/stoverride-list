@@ -204,5 +204,13 @@
         "paths": [
             "stoverride"
         ]
+    },
+    {
+        "owner": "Script-Hub-Org",
+        "repo": "Script-Hub",
+        "branch": "main",
+        "paths": [
+            "modules"
+        ]
     }
 ]
