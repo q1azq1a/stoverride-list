@@ -1246,18 +1246,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "demo",
-    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "Script Hub: 重写 & 规则集转换",
     "desc": "https://script.hub",
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
+  },
+  {
+    "name": "demo",
+    "desc": "打开 http://httpbin.org/headers 能看到 headers.User-Agent 和 modifiedBy 两个变化",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sileo 嗨客源修复",
