@@ -1197,6 +1197,13 @@
     "repo": "rule"
   },
   {
+    "name": "BiliBili 重定向到正规 CDN",
+    "desc": "🇭🇰 仅适合在中国大陆使用港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
@@ -1209,13 +1216,6 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
-  },
-  {
-    "name": "BiliBili 重定向到正规 CDN",
-    "desc": "🇭🇰 仅适合在中国大陆使用港澳台版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-hmt-bilibili-cdn-cn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "哔哩哔哩番剧监控",
