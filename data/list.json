@@ -714,18 +714,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "🍟 Fries: 🌐 ASN China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "🍟 Fries: 🌐 ASN China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "Bing AI",
@@ -1050,6 +1050,13 @@
     "repo": "scripts"
   },
   {
+    "name": "Script Hub: 重写 & 规则集转换",
+    "desc": "https://script.hub",
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
+    "owner": "Script-Hub-Org",
+    "repo": "Script-Hub"
+  },
+  {
     "name": "AdGuard 会员",
     "desc": "解锁 AdGuard 会员功能",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
@@ -1062,13 +1069,6 @@
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "Script Hub: 重写 & 规则集转换",
-    "desc": "https://script.hub",
-    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
-    "owner": "Script-Hub-Org",
-    "repo": "Script-Hub"
   },
   {
     "name": "PixivShow",
