@@ -252,18 +252,18 @@
     "repo": "rule"
   },
   {
-    "name": "重写转换、规则集解析",
-    "desc": "重写转换已升级为，Script Hub ，请尽快将转换后的覆写迁移到新版本，旧版将在近期下架。指路 https://github.com/Script-Hub-Org/Script-Hub/wiki",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "vip 解锁合集",
     "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "重写转换、规则集解析",
+    "desc": "重写转换已升级为，Script Hub ，请尽快将转换后的覆写迁移到新版本，旧版将在近期下架。指路 https://github.com/Script-Hub-Org/Script-Hub/wiki",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "Google 重定向修改版",
@@ -735,13 +735,6 @@
     "repo": "Mononoke"
   },
   {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g.cn / google.cn 重定向到 google.com",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
@@ -840,18 +833,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "百度搜索网页去广告",
-    "desc": "移除百度搜索移动端网页的广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "百度搜索网页去广告",
+    "desc": "移除百度搜索移动端网页的广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "百度网盘解锁倍速",
