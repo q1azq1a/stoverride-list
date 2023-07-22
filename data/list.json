@@ -896,6 +896,13 @@
     "repo": "Cloudflare"
   },
   {
+    "name": "CSDN 免登陆复制代码",
+    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
+  },
+  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/stoverride/DualSubs.YouTube.stoverride",
@@ -922,13 +929,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "CSDN 免登陆复制代码",
-    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
   },
   {
     "name": "去广告规则",
