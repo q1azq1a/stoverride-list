@@ -966,18 +966,18 @@
     "repo": "Global"
   },
   {
-    "name": "黑料不打烊",
-    "desc": "定时获取最新黑料（NSFW）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "Script Hub: 重写 & 规则集转换",
     "desc": "https://script.hub",
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
+  },
+  {
+    "name": "黑料不打烊",
+    "desc": "定时获取最新黑料（NSFW）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "全局模式",
