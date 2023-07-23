@@ -728,13 +728,6 @@
     "repo": "rule"
   },
   {
-    "name": "Bing AI",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/BingAI.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "OpenAI IP Cheker",
     "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
@@ -1270,6 +1263,13 @@
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
+    "name": "NewBing",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   }
