@@ -945,16 +945,16 @@
     "repo": "rule"
   },
   {
-    "name": "百度网盘去广告",
-    "desc": "过滤百度网盘广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
+    "name": "BiliBili优化(白色)",
+    "desc": "bilibili去广告及其他优化(白色图标版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "BiliBili优化(白色)",
-    "desc": "bilibili去广告及其他优化(白色图标版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
+    "name": "百度网盘去广告",
+    "desc": "过滤百度网盘广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
