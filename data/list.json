@@ -280,18 +280,18 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "BiliBili 去广告（兼容国际版）",
@@ -525,18 +525,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "TikTok解锁-新加坡",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "彩云天气SVIP",
     "desc": "彩云天气会员解锁",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "TikTok解锁-新加坡",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "WeChat Article Cleaner",
@@ -679,18 +679,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "🍟 Fries: 🌐 DNS enhanced",
-    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "🍟 Fries: 🌐 DNS enhanced",
+    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "ChatGPT Plus解锁",
@@ -812,18 +812,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "实时油价查询",
     "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "VUE pro",
@@ -980,18 +980,18 @@
     "repo": "Module"
   },
   {
-    "name": "全局模式",
-    "desc": "以全局模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " Apple Accelerated Download",
     "desc": "Apple 相关 CDN 域名指向 Apple 香港源站：\n• 🏬 iOS & Mac AppStore\n• 🎵 Apple Music\n• ⚙️ Apple Developer",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "全局模式",
+    "desc": "以全局模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Block Bad UDP",
