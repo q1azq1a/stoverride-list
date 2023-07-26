@@ -105,18 +105,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo: 📍 Location & 🗺️ Maps",
-    "desc": "全面自定义「定位服务」与「地图」的功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "去广告(严格版)",
     "desc": "重写去广告严格版",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo: 📍 Location & 🗺️ Maps",
+    "desc": "全面自定义「定位服务」与「地图」的功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "YouTube去广告",
