@@ -1211,18 +1211,18 @@
     "repo": "rule"
   },
   {
-    "name": "Emby Premiere",
-    "desc": "Unlock Emby Premiere.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "NewBing",
     "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "Emby Premiere",
+    "desc": "Unlock Emby Premiere.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Script Hub(β): 重写 & 规则集转换",
