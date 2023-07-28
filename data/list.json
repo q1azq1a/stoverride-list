@@ -812,18 +812,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "VUE pro",
