@@ -392,18 +392,18 @@
     "repo": "scripts"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "bilibili去广告(>=iOS15)",
     "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "百度搜索防跳转",
@@ -840,18 +840,18 @@
     "repo": "stash"
   },
   {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "Script Hub: 重写 & 规则集转换",
     "desc": "https://script.hub",
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
+  },
+  {
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
@@ -1015,18 +1015,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "AdGuard 会员",
     "desc": "解锁 AdGuard 会员功能",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "新冠疫情查询 Tile 磁贴",
