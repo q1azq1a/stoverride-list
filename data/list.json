@@ -217,18 +217,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Spotify解锁(>=iOS15)",
     "desc": "部分解锁premium,建议重新登录,并清除缓存,音质不能设置为超高",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "微博",
