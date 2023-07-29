@@ -77,18 +77,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -791,6 +791,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "📺 BiliBili: 🛡️ ADBlock",
+    "desc": "哔哩哔哩：去广告",
+    "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
+    "owner": "BiliUniverse",
+    "repo": "ADBlock"
+  },
+  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
@@ -803,13 +810,6 @@
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
-  },
-  {
-    "name": "📺 BiliBili: 🛡️ ADBlock",
-    "desc": "哔哩哔哩：去广告",
-    "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
-    "owner": "BiliUniverse",
-    "repo": "ADBlock"
   },
   {
     "name": "电信信息 Tile 面板",
@@ -917,16 +917,16 @@
     "repo": "Mononoke"
   },
   {
-    "name": "BiliBili优化(白色)",
-    "desc": "bilibili去广告及其他优化(白色图标版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
+    "name": "百度网盘去广告",
+    "desc": "过滤百度网盘广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
   {
-    "name": "百度网盘去广告",
-    "desc": "过滤百度网盘广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
+    "name": "BiliBili优化(白色)",
+    "desc": "bilibili去广告及其他优化(白色图标版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
