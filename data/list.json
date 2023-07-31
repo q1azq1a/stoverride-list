@@ -1071,6 +1071,13 @@
     "repo": "stash"
   },
   {
+    "name": "BiliBili每日等级任务",
+    "desc": "定时任务及Cookie获取",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "🍿️ DualSubs: 🎦 Universal",
     "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
@@ -1090,13 +1097,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "BiliBili每日等级任务",
-    "desc": "定时任务及Cookie获取",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "自动加入 TestFlight(β)",
@@ -1155,18 +1155,18 @@
     "repo": "use-self"
   },
   {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知（需配合请求体覆写）",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "哔哩哔哩漫画签到",
     "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知（需配合请求体覆写）",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "BiliBili 重定向到正规 CDN",
