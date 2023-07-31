@@ -1015,18 +1015,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "AdGuard 会员",
-    "desc": "解锁 AdGuard 会员功能",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "GitHub 增强",
     "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "AdGuard 会员",
+    "desc": "解锁 AdGuard 会员功能",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "新冠疫情查询 Tile 磁贴",
