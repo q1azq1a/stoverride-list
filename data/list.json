@@ -910,6 +910,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "黑料不打烊",
+    "desc": "定时获取最新黑料（NSFW）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "去广告规则",
     "desc": "分流去广告(或存在误杀，谨慎使用)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Rule/AdRuleSet.stoverride",
@@ -920,13 +927,6 @@
     "name": "BiliBili优化(白色)",
     "desc": "bilibili去广告及其他优化(白色图标版)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "黑料不打烊",
-    "desc": "定时获取最新黑料（NSFW）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1134,6 +1134,13 @@
     "repo": "scripts"
   },
   {
+    "name": "Script Hub(β): 重写 & 规则集转换",
+    "desc": "https://script.hub",
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
+    "owner": "Script-Hub-Org",
+    "repo": "Script-Hub"
+  },
+  {
     "name": "NewBing",
     "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
@@ -1146,13 +1153,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Script Hub(β): 重写 & 规则集转换",
-    "desc": "https://script.hub",
-    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
-    "owner": "Script-Hub-Org",
-    "repo": "Script-Hub"
   },
   {
     "name": "HTTPDNS Block",
@@ -1190,18 +1190,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Emby Premiere",
-    "desc": "Unlock Emby Premiere.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "PlaneFinder",
     "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "Emby Premiere",
+    "desc": "Unlock Emby Premiere.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "TG频道图片推送",
