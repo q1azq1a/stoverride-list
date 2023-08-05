@@ -896,18 +896,18 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "每周循环信息展示 Tile 磁贴",
-    "desc": "用于每周七天自定义显示特定信息",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "每周循环信息展示 Tile 磁贴",
+    "desc": "用于每周七天自定义显示特定信息",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "黑料不打烊",
@@ -987,18 +987,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "BiliBili 重定向到中国大陆正规 CDN",
-    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "Force Http Engine",
     "desc": "Force http engine to work when tunnel mode on.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "BiliBili 重定向到中国大陆正规 CDN",
+    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "Q-Search",
