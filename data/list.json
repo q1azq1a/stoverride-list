@@ -833,18 +833,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "百度网盘解锁倍速",
-    "desc": "仅解锁倍速清晰度",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
     "name": "🍟 Fries: 🚫 Block HTTPDNS",
     "desc": "阻止常见的 HTTPDNS 服务器",
     "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
     "owner": "VirgilClyne",
     "repo": "GetSomeFries"
+  },
+  {
+    "name": "百度网盘解锁倍速",
+    "desc": "仅解锁倍速清晰度",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   },
   {
     "name": "VUE pro",
