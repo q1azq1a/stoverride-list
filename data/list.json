@@ -1085,6 +1085,13 @@
     "repo": "stash"
   },
   {
+    "name": "Script Hub(β): 重写 & 规则集转换",
+    "desc": "https://script.hub",
+    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
+    "owner": "Script-Hub-Org",
+    "repo": "Script-Hub"
+  },
+  {
     "name": "自动加入 TestFlight(β)",
     "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
@@ -1104,13 +1111,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Script Hub(β): 重写 & 规则集转换",
-    "desc": "https://script.hub",
-    "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
-    "owner": "Script-Hub-Org",
-    "repo": "Script-Hub"
   },
   {
     "name": "Fake IP Fixer",
