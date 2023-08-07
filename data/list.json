@@ -791,13 +791,6 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "TikTok解锁-澳门",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
@@ -861,18 +854,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "DNS-CN",
-    "desc": "采用腾讯与阿里DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "脚本转换",
     "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "DNS-CN",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Nicegram会员",
@@ -966,13 +959,6 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "电信余量(自动版)",
-    "desc": "电信免流跳点通知",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "全局模式",
     "desc": "以全局模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
@@ -1027,13 +1013,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
   },
   {
     "name": "BiliBili每日等级任务",
@@ -1181,13 +1160,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知（需配合请求体覆写）",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
   },
   {
     "name": "Emby Premiere",
