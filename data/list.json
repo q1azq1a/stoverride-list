@@ -455,18 +455,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "VSCO活跃会员",
-    "desc": "解锁会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "屏蔽QUIC",
     "desc": "防止哔哩哔哩等产生大量连接占用资源",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "VSCO活跃会员",
+    "desc": "解锁会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": " iRingo: ✈ TestFlight",
@@ -679,18 +679,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo: 📰 News β",
-    "desc": "(BETA for Stash 2.0) \n1.自定义解锁News的地区\n2.Coming Soon…\n注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "Epic周免",
     "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo: 📰 News β",
+    "desc": "(BETA for Stash 2.0) \n1.自定义解锁News的地区\n2.Coming Soon…\n注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "网易云音乐去广告",
@@ -840,13 +840,6 @@
     "repo": "stash"
   },
   {
-    "name": "🍟 Fries: 🚫 Block HTTPDNS",
-    "desc": "阻止常见的 HTTPDNS 服务器",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/HTTPDNS.Block.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "VUE pro",
     "desc": "解锁PRO会员，享用专业功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
@@ -882,6 +875,13 @@
     "repo": "rule"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
@@ -903,16 +903,16 @@
     "repo": "Mononoke"
   },
   {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
     "name": "黑料不打烊",
     "desc": "定时获取最新黑料（NSFW）",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
+    "name": "百度网盘去广告",
+    "desc": "过滤百度网盘广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -922,13 +922,6 @@
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
-  },
-  {
-    "name": "百度网盘去广告",
-    "desc": "过滤百度网盘广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduNetDisk_remove_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "去广告规则",
