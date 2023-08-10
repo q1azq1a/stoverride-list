@@ -728,18 +728,18 @@
     "repo": "rule"
   },
   {
-    "name": "OpenAI IP Cheker",
-    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
-    "owner": "Yubyf",
-    "repo": "OpenAI-Checker-Tile"
-  },
-  {
     "name": "📺 BiliBili: 🛡️ ADBlock",
     "desc": "哔哩哔哩：去广告",
     "url": "https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.stoverride",
     "owner": "BiliUniverse",
     "repo": "ADBlock"
+  },
+  {
+    "name": "OpenAI IP Cheker",
+    "desc": "The tile to check if your IP can access OpenAI services.(Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Yubyf/OpenAI-Checker-Tile/master/stoverride/openai_checker_tile.stoverride",
+    "owner": "Yubyf",
+    "repo": "OpenAI-Checker-Tile"
   },
   {
     "name": "Google CN 重定向",
@@ -980,18 +980,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Force Http Engine",
-    "desc": "Force http engine to work when tunnel mode on.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "BiliBili 重定向到中国大陆正规 CDN",
     "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Force Http Engine",
+    "desc": "Force http engine to work when tunnel mode on.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Q-Search",
