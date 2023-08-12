@@ -1260,16 +1260,16 @@
     "repo": "Script"
   },
   {
-    "name": "游民星空app去广告",
-    "desc": "去开屏广告，列表广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
+    "name": "微博(轻享版/极速版)去广告",
+    "desc": "微博(轻享版/极速版)去广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
   },
   {
-    "name": "微博(轻享版/极速版)去广告",
-    "desc": "微博(轻享版/极速版)去广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
+    "name": "游民星空app去广告",
+    "desc": "去开屏广告，列表广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
   },
