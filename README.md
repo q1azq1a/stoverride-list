@@ -22,4 +22,4 @@ Stash 是一款 iOS / macOS 平台基于规则的多协议代理客户端，完�
 
 ## 咨询合作
 
-请发送电子邮件到 [info@stash.ws](mailto://info@stash.ws)。
+请发送电子邮件到 [info@stash.ws](mailto://info@stash.ws) 。
