@@ -581,18 +581,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "直连+代理IP地址信息",
     "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "TikTok解锁-台湾",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Script Hub: 重写 & 规则集转换",
@@ -882,6 +882,13 @@
     "repo": "stash-waffle"
   },
   {
+    "name": "每周循环信息展示 Tile 磁贴",
+    "desc": "用于每周七天自定义显示特定信息",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
@@ -894,13 +901,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "每周循环信息展示 Tile 磁贴",
-    "desc": "用于每周七天自定义显示特定信息",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "黑料不打烊",
@@ -1251,5 +1251,33 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "游民星空app去广告",
+    "desc": "去开屏广告，列表广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
+    "name": "微博(轻享版/极速版)去广告",
+    "desc": "微博(轻享版/极速版)去广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
+    "name": "Google重定向",
+    "desc": "解决Safari多点一次Google的问题",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
+    "name": "APP合集-骨钉",
+    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
   }
 ]
