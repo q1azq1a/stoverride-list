@@ -1253,6 +1253,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "APP合集-骨钉",
+    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
+  },
+  {
     "name": "游民星空app去广告",
     "desc": "去开屏广告，列表广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
@@ -1272,12 +1279,5 @@
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
-  },
-  {
-    "name": "APP合集-骨钉",
-    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
   }
 ]
