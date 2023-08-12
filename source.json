@@ -212,5 +212,13 @@
         "paths": [
             "modules"
         ]
+    },
+    {
+        "owner": "psychopasss",
+        "repo": "ss_rule",
+        "branch": "main",
+        "paths": [
+            "Stash/override"
+        ]
     }
 ]
