@@ -371,18 +371,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "策略检测 Tile 面板",
@@ -413,18 +413,11 @@
     "repo": "rule"
   },
   {
-    "name": "bilibili去广告(>=iOS15)",
-    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
+    "name": "bilibili去广告8.13(>=iOS15)",
+    "desc": "开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告)",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
-  },
-  {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "彩云天气SVIP",
@@ -432,6 +425,13 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Netflix评分",
@@ -812,18 +812,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "百度搜索网页去广告",
     "desc": "移除百度搜索移动端网页的广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/BaiduSearchWebpage_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "百度网盘解锁倍速",
@@ -1253,18 +1253,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "微博(轻享版/极速版)去广告",
-    "desc": "微博(轻享版/极速版)去广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "APP合集-骨钉",
     "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
     "owner": "Guding88",
     "repo": "Script"
+  },
+  {
+    "name": "微博(轻享版/极速版)去广告",
+    "desc": "微博(轻享版/极速版)去广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   },
   {
     "name": "游民星空app去广告",
