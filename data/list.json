@@ -210,18 +210,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁台湾地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Spotify解锁(>=iOS15)",
     "desc": "部分解锁premium,建议重新登录,并清除缓存,音质不能设置为超高",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁台湾地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "vip 解锁合集",
@@ -763,6 +763,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
+  },
+  {
     "name": "TikTok解锁-法国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
@@ -775,13 +782,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
   },
   {
     "name": "有道云笔记",
