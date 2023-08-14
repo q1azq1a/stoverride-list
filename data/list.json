@@ -1099,6 +1099,13 @@
     "repo": "rule"
   },
   {
+    "name": "Fake IP Fixer",
+    "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
+  },
+  {
     "name": "执行远程脚本 Tile 面板",
     "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
@@ -1118,13 +1125,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "Fake IP Fixer",
-    "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
   },
   {
     "name": "获取 TestFlight 信息(β)",
@@ -1239,18 +1239,18 @@
     "repo": "scripts"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "APP合集-骨钉",
     "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://github.com/Guding88/Script/blob/main/Readme.md",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
     "owner": "Guding88",
     "repo": "Script"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "微博(轻享版/极速版)去广告",
