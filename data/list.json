@@ -105,18 +105,18 @@
     "repo": "rule"
   },
   {
-    "name": "去广告(严格版)",
-    "desc": "重写去广告严格版",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " iRingo: 📍 Location & 🗺️ Maps",
     "desc": "全面自定义「定位服务」与「地图」的功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "去广告(严格版)",
+    "desc": "重写去广告严格版",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "YouTube去广告",
@@ -399,18 +399,18 @@
     "repo": "scripts"
   },
   {
-    "name": "bilibili去广告8.13(>=iOS15)",
-    "desc": "开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告)",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": " iRingo: 📰 News",
     "desc": "(BETA for Stash 2.0) \n1.自定义解锁News的地区\n2.Coming Soon…\n注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "bilibili去广告8.13(>=iOS15)",
+    "desc": "开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告)",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "TestFlight账户管理",
@@ -497,6 +497,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": " iRingo: 📺 TV app",
+    "desc": "全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
@@ -509,13 +516,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": " iRingo: 📺 TV app",
-    "desc": "全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本",
