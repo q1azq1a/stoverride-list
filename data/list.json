@@ -756,6 +756,13 @@
     "repo": "network-rules"
   },
   {
+    "name": "知乎去广告增强",
+    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "电信信息 Tile 面板",
     "desc": "电信信息面板",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
@@ -763,9 +770,9 @@
     "repo": "Module"
   },
   {
-    "name": "知乎去广告增强",
-    "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
+    "name": "Emby Plugin",
+    "desc": "Emby 官方客户端内调用外部播放器",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -775,13 +782,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "IP Geoloaction",
@@ -1239,18 +1239,18 @@
     "repo": "scripts"
   },
   {
-    "name": "APP合集-骨钉",
-    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "APP合集-骨钉",
+    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明 https://github.com/Guding88/Script/blob/main/Readme.md",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
   },
   {
     "name": "微博(轻享版/极速版)去广告",
