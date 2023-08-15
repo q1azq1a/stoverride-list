@@ -336,18 +336,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "解锁韩国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "TikTok解锁-韩国",
+    "desc": "解锁韩国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "TikTok解锁-日本",
@@ -1155,6 +1155,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "APP合集-骨钉",
+    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://github.com/Guding88/Script/blob/main/Readme.md",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
+  },
+  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
@@ -1167,13 +1174,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "APP合集-骨钉",
-    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://github.com/Guding88/Script/blob/main/Readme.md",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
   },
   {
     "name": "Airplus",
