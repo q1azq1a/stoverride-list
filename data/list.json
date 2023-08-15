@@ -749,18 +749,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "电信信息 Tile 面板",
-    "desc": "电信信息面板",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "实时油价查询",
     "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "电信信息 Tile 面板",
+    "desc": "电信信息面板",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash_Panel.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "知乎去广告增强",
@@ -1169,18 +1169,18 @@
     "repo": "Module"
   },
   {
-    "name": "Airplus",
-    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "APP合集-骨钉",
     "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://github.com/Guding88/Script/blob/main/Readme.md",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
     "owner": "Guding88",
     "repo": "Script"
+  },
+  {
+    "name": "Airplus",
+    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "哔哩哔哩漫画签到",
