@@ -1211,18 +1211,18 @@
     "repo": "rule"
   },
   {
-    "name": "Flightradar24 Gold 会员",
-    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
+  },
+  {
+    "name": "Flightradar24 Gold 会员",
+    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "哔哩哔哩番剧监控",
