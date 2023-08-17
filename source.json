@@ -225,5 +225,10 @@
       "paths":[
          "Stash/override"
       ]
+   },
+   {
+      "owner":"xkww3n",
+      "repo":"Scripts",
+      "branch":"main"
    }
 ]
