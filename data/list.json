@@ -399,6 +399,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "彩云天气SVIP",
+    "desc": "彩云天气会员解锁",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "BoxJs",
     "desc": "http://boxjs.net",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
@@ -411,13 +418,6 @@
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
-  },
-  {
-    "name": "彩云天气SVIP",
-    "desc": "彩云天气会员解锁",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "TestFlight账户管理",
