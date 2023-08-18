@@ -245,16 +245,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "知乎",
-    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "name": "知乎",
+    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -1197,6 +1197,13 @@
     "repo": "rule"
   },
   {
+    "name": "Google API 可用性检测",
+    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
+    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
+    "owner": "xkww3n",
+    "repo": "Scripts"
+  },
+  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
@@ -1216,13 +1223,6 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
-  },
-  {
-    "name": "Google API 可用性检测",
-    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
-    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
-    "owner": "xkww3n",
-    "repo": "Scripts"
   },
   {
     "name": "TG频道图片推送",
