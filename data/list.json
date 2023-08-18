@@ -1253,18 +1253,18 @@
     "repo": "ss_rule"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Google API 可用性检测",
     "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
     "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
     "owner": "xkww3n",
     "repo": "Scripts"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "demo",
