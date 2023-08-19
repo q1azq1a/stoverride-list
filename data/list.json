@@ -371,18 +371,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "策略检测 Tile 面板",
-    "desc": "包含国内受限, 国内和国外. 自己设置对应域名的分流",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "策略检测 Tile 面板",
+    "desc": "包含国内受限, 国内和国外. 自己设置对应域名的分流",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/policy-chain/policy-chain.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "彩云天气SVIP",
@@ -441,18 +441,18 @@
     "repo": "rule"
   },
   {
-    "name": "YouTube Ad&Tracker Blocking (Alternative)",
-    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "YouTube Ad&Tracker Blocking (Alternative)",
+    "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": " iRingo: ✈ TestFlight",
@@ -490,18 +490,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "微博",
-    "desc": "全面净化",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "微博",
+    "desc": "全面净化",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": " iRingo: 📺 TV app",
@@ -693,6 +693,13 @@
     "repo": "rule"
   },
   {
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": " iRingo: 📰 News β",
     "desc": "(BETA for Stash 2.0) \n1.自定义解锁News的地区\n2.Coming Soon…\n注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
@@ -796,6 +803,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "百度搜索网页去广告",
@@ -966,13 +980,6 @@
     "repo": "rule"
   },
   {
-    "name": "BiliBili 重定向到中国大陆正规 CDN",
-    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "Google API 可用性检测",
     "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
     "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
@@ -980,11 +987,25 @@
     "repo": "Scripts"
   },
   {
+    "name": "BiliBili 重定向到中国大陆正规 CDN",
+    "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "Force Http Engine",
     "desc": "Force http engine to work when tunnel mode on.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "Q-Search",
+    "desc": "快捷切换聚合搜索引擎",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "AdGuard 会员",
@@ -1053,6 +1074,13 @@
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
+    "name": "NewBing",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -1244,6 +1272,13 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/demo/demo.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "游民星空app去广告",
