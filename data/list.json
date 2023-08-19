@@ -42,16 +42,16 @@
     "repo": "Sub-Store"
   },
   {
-    "name": "京东历史价格",
-    "desc": "京东历史价格",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/JDPrice.stoverride",
+    "name": "去除微博微信APP内广告",
+    "desc": "去微博、微信公众号广告",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "去除微博微信APP内广告",
-    "desc": "去微博、微信公众号广告",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
+    "name": "京东历史价格",
+    "desc": "京东历史价格",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/JDPrice.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -385,18 +385,18 @@
     "repo": "scripts"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "彩云天气SVIP",
     "desc": "彩云天气会员解锁",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ColorWeather.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "BoxJs",
@@ -490,18 +490,18 @@
     "repo": "MySelf"
   },
   {
-    "name": " iRingo: 📺 TV app",
-    "desc": "全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "New Bing 聊天修复",
     "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": " iRingo: 📺 TV app",
+    "desc": "全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "微博",
@@ -616,18 +616,18 @@
     "repo": "rule"
   },
   {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
-  },
-  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "重定向",
@@ -1001,6 +1001,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Google API 可用性检测",
+    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
+    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
+    "owner": "xkww3n",
+    "repo": "Scripts"
+  },
+  {
     "name": "AdGuard 会员",
     "desc": "解锁 AdGuard 会员功能",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
@@ -1020,13 +1027,6 @@
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
-  },
-  {
-    "name": "Google API 可用性检测",
-    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
-    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
-    "owner": "xkww3n",
-    "repo": "Scripts"
   },
   {
     "name": "GitHub 增强",
@@ -1239,18 +1239,18 @@
     "repo": "rule"
   },
   {
-    "name": "记录有多余的 DNS 解析的请求",
-    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "记录有多余的 DNS 解析的请求",
+    "desc": "不需要用这个了用 大佬的 https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/StashInsight.stoverride 默认1分钟取一次 请勿长时间开启 日志会超多 原脚本来自 RS0485/network-rules",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/redundant-dns-log/redundant-dns-log.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Google重定向",
