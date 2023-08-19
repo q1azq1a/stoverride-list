@@ -1043,6 +1043,13 @@
     "repo": "Script"
   },
   {
+    "name": "Google API 可用性检测",
+    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
+    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
+    "owner": "xkww3n",
+    "repo": "Scripts"
+  },
+  {
     "name": "🍿️ DualSubs: 🎦 Universal",
     "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
@@ -1055,13 +1062,6 @@
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "Google API 可用性检测",
-    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
-    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
-    "owner": "xkww3n",
-    "repo": "Scripts"
   },
   {
     "name": "豆瓣影视",
