@@ -294,18 +294,18 @@
     "repo": "rule"
   },
   {
-    "name": "BiliBili 去广告（兼容国际版）",
-    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "BiliBili 去广告（兼容国际版）",
+    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "财新会员",
@@ -1085,6 +1085,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Google API 可用性检测",
+    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
+    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
+    "owner": "xkww3n",
+    "repo": "Scripts"
+  },
+  {
     "name": "引用私有库",
     "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
@@ -1097,13 +1104,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "Google API 可用性检测",
-    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
-    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
-    "owner": "xkww3n",
-    "repo": "Scripts"
   },
   {
     "name": "日志等级Debug",
