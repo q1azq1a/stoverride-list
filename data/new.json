@@ -1,5 +1,12 @@
 [
   {
+    "name": "霸王茶姬小程序签到",
+    "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
+  },
+  {
     "name": "Google API 可用性检测",
     "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
     "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
