@@ -889,18 +889,18 @@
     "repo": "stash-waffle"
   },
   {
-    "name": "每周循环信息展示 Tile 磁贴",
-    "desc": "用于每周七天自定义显示特定信息",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "每周循环信息展示 Tile 磁贴",
+    "desc": "用于每周七天自定义显示特定信息",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "iRingo",
@@ -966,18 +966,18 @@
     "repo": "Module"
   },
   {
-    "name": "BiliBili 海外 CDN 重定向",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "Google API 可用性检测",
     "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
     "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
     "owner": "xkww3n",
     "repo": "Scripts"
+  },
+  {
+    "name": "BiliBili 海外 CDN 重定向",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！（需要 MitM）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "全局模式",
