@@ -1197,18 +1197,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "哔哩哔哩漫画签到",
-    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
+  },
+  {
+    "name": "哔哩哔哩漫画签到",
+    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Flightradar24 Gold 会员",
@@ -1291,13 +1291,6 @@
     "name": "霸王茶姬小程序签到",
     "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
-  },
-  {
-    "name": "霸王茶姬小程序签到",
-    "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/bwcj.stoverride",
     "owner": "Guding88",
     "repo": "Script"
   }
