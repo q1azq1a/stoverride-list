@@ -1057,18 +1057,18 @@
     "repo": "scripts"
   },
   {
-    "name": "自动加入 TestFlight(β)",
-    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "自动加入 TestFlight(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "NewBing",
