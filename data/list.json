@@ -483,18 +483,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "微博",
     "desc": "全面净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "New Bing 聊天修复",
@@ -1008,18 +1008,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "AdGuard 会员",
-    "desc": "解锁 AdGuard 会员功能",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "APP合集-骨钉",
     "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://t.me/Guding88",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
     "owner": "Guding88",
     "repo": "Script"
+  },
+  {
+    "name": "AdGuard 会员",
+    "desc": "解锁 AdGuard 会员功能",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "Do-Not-Track My Xiaohongshu",
