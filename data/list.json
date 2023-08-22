@@ -1036,18 +1036,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "BiliBili每日等级任务",
-    "desc": "定时任务及Cookie获取",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: 🎦 Universal",
     "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
     "owner": "DualSubs",
     "repo": "Universal"
+  },
+  {
+    "name": "BiliBili每日等级任务",
+    "desc": "定时任务及Cookie获取",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "GitHub 增强",
