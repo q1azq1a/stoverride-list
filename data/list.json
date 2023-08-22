@@ -441,18 +441,18 @@
     "repo": "rule"
   },
   {
-    "name": "财新周刊会员",
-    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
     "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "屏蔽QUIC",
@@ -1043,18 +1043,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "🍿️ DualSubs: 🎦 Universal",
     "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
     "owner": "DualSubs",
     "repo": "Universal"
+  },
+  {
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "电信余量请求体获取",
@@ -1281,17 +1281,17 @@
     "repo": "Mononoke"
   },
   {
-    "name": "游民星空app去广告",
-    "desc": "去开屏广告，列表广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "霸王茶姬小程序签到",
     "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
     "url": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.stoverride",
     "owner": "Guding88",
     "repo": "Script"
+  },
+  {
+    "name": "游民星空app去广告",
+    "desc": "去开屏广告，列表广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   }
 ]
