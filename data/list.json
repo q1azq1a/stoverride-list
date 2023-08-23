@@ -511,18 +511,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": " iRingo: 📺 TV app",
-    "desc": "全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "Script Hub: 重写 & 规则集转换",
     "desc": "https://script.hub",
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
+  },
+  {
+    "name": " iRingo: 📺 TV app",
+    "desc": "全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本",
