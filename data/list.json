@@ -434,18 +434,18 @@
     "repo": "rule"
   },
   {
-    "name": "财新周刊会员",
-    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
     "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": " iRingo: ✈ TestFlight",
@@ -1008,18 +1008,18 @@
     "repo": "Rules"
   },
   {
-    "name": "🍿️ DualSubs: 🎦 Universal",
-    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
-  },
-  {
     "name": "Script Hub(β): 重写 & 规则集转换",
     "desc": "https://script.hub",
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
+  },
+  {
+    "name": "🍿️ DualSubs: 🎦 Universal",
+    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
   },
   {
     "name": "Do-Not-Track My Xiaohongshu",
