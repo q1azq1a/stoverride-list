@@ -644,18 +644,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": " iRingo: 🔍 Siri & Search β",
-    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": " iRingo: 🔍 Siri & Search β",
+    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "网易云音乐去广告",
@@ -735,18 +735,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "实时油价查询",
-    "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "知乎去广告增强",
     "desc": "去除知乎各种广告，建议卸载知乎重新安装。",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Zhihu_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "实时油价查询",
+    "desc": "通过网络API查询当前油价，默认查询地区为广东省，可通过两种方法修改查询地区： 1. 拷贝此覆写，设置tile的argument为查询地区 2. 在脚本编辑器执行代码设置地区，例如设置成云南：$persistentStore.write(\"yunnan\", \"gas_price_region\"); $done({settings: \"ok\"})",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/GasPrice.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "电信信息 Tile 面板",
@@ -1282,8 +1282,15 @@
   },
   {
     "name": "杭州市民卡app广告移除",
-    "desc": "开屏广告、首页广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminka.stoverride",
+    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
+    "name": "Emby Unlock",
+    "desc": "解锁Emby会员功能, 无通知",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
   }
