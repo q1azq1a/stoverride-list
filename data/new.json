@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "杭州市民卡app广告移除",
+    "desc": "开屏广告、首页广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminka.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  }
+]
