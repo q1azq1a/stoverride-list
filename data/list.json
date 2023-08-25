@@ -686,18 +686,18 @@
     "repo": "rule"
   },
   {
-    "name": "Google重定向",
-    "desc": "将google.cn/google.com.hk重定向回google.com",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": " iRingo: 📰 News β",
     "desc": "(BETA for Stash 2.0) \n1.自定义解锁News的地区\n2.Coming Soon…\n注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "Google重定向",
+    "desc": "将google.cn/google.com.hk重定向回google.com",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/GoogleRedirect.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "扫描全能王",
@@ -917,18 +917,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "BiliBili优化(白色)",
-    "desc": "bilibili去广告及其他优化(白色图标版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "📺 BiliBili: 🌐 Global β",
     "desc": "(BETA) 哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
     "url": "https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.beta.stoverride",
     "owner": "BiliUniverse",
     "repo": "Global"
+  },
+  {
+    "name": "BiliBili优化(白色)",
+    "desc": "bilibili去广告及其他优化(白色图标版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/bilibili_white.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": " Apple Accelerated Download",
@@ -1281,16 +1281,16 @@
     "repo": "ss_rule"
   },
   {
-    "name": "杭州市民卡app广告移除",
-    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
+    "name": "Emby Unlock",
+    "desc": "解锁Emby会员功能, 无通知",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
   },
   {
-    "name": "Emby Unlock",
-    "desc": "解锁Emby会员功能, 无通知",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
+    "name": "杭州市民卡app广告移除",
+    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
   }
