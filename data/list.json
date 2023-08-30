@@ -280,18 +280,18 @@
     "repo": "stash"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "BiliBili 去广告（兼容国际版）",
@@ -609,18 +609,18 @@
     "repo": "rule"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "🍟 Fries: 🌐 DNS enhanced",
@@ -777,18 +777,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "IP Geoloaction",
-    "desc": "Display Geolocation as a tile.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "有道云笔记",
     "desc": "解锁VIP高级功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "IP Geoloaction",
+    "desc": "Display Geolocation as a tile.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "TikTok解锁-澳门",
