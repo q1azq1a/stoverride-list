@@ -651,18 +651,18 @@
     "repo": "Rules"
   },
   {
-    "name": " iRingo: 🔍 Siri & Search β",
-    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "网易云音乐去广告",
     "desc": "过滤网易云音乐广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/NeteaseCloudMusic_remove_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": " iRingo: 🔍 Siri & Search β",
+    "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "🍟 Fries: 🌐 ASN China",
