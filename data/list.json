@@ -1302,6 +1302,13 @@
     "repo": "ss_rule"
   },
   {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
+    "desc": "(BETA) WARP检测面板与节点提取",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "🍿️ DualSubs: 🇳 Netflix",
     "desc": "Netflix字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
@@ -1319,13 +1326,6 @@
     "name": "☁️ Cloudflare: 🇩 DNS",
     "desc": "Cloudflare (D)DNS 记录管理",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.DNS.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
-  },
-  {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
-    "desc": "(BETA) WARP检测面板与节点提取",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
   },
