@@ -462,18 +462,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": " iRingo: ✈ TestFlight",
-    "desc": "1.自定义TestFlight登录商店地区\n2.多账户保存及切换(需配置BoxJs使用)\n3.让通用应用在任意苹果处理器设备上可安装",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "微博",
     "desc": "全面净化",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/WeiboAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": " iRingo: ✈ TestFlight",
+    "desc": "1.自定义TestFlight登录商店地区\n2.多账户保存及切换(需配置BoxJs使用)\n3.让通用应用在任意苹果处理器设备上可安装",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "屏蔽QUIC",
@@ -1127,6 +1127,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "Emby Premiere",
+    "desc": "Unlock Emby Premiere.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
@@ -1137,13 +1144,6 @@
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
-    "name": "Emby Premiere",
-    "desc": "Unlock Emby Premiere.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -1204,18 +1204,18 @@
     "repo": "Rules"
   },
   {
-    "name": "PlaneFinder",
-    "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "PlaneFinder",
+    "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "哔哩哔哩番剧监控",
@@ -1295,18 +1295,18 @@
     "repo": "Universal"
   },
   {
-    "name": "杭州市民卡app广告移除",
-    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "杭州市民卡app广告移除",
+    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
