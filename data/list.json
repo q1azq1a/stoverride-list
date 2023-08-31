@@ -406,18 +406,18 @@
     "repo": "Stash"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.net",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.net",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "百度搜索防跳转",
@@ -1190,18 +1190,18 @@
     "repo": "rule"
   },
   {
-    "name": "Flightradar24 Gold 会员",
-    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户, 并可导入/分享TestFlight APP.⚠️本脚本已包含“TestFlight区域限制解除”功能⚠️",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlightAccount.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "Flightradar24 Gold 会员",
+    "desc": "解锁 Flightradar24 Gold 会员功能, 点击界面右上角的登录页面 -> \"通过 iTunes 购买? 立即复原\" 解锁 (根据 Cuttlefish 脚本修改)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/flightradar24.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "PlaneFinder",
