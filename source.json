@@ -28,7 +28,7 @@
       "repo":"Cloudflare",
       "branch":"main",
       "paths":[
-         "stoverride"
+         "modules"
       ]
    },
    {
@@ -52,7 +52,7 @@
       "repo":"YouTube",
       "branch":"main",
       "paths":[
-         "stoverride"
+         "modules"
       ]
    },
    {
@@ -60,7 +60,7 @@
       "repo":"Netflix",
       "branch":"main",
       "paths":[
-         "stoverride"
+         "modules"
       ]
    },
    {
