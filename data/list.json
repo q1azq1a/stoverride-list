@@ -1323,16 +1323,16 @@
     "repo": "Netflix"
   },
   {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
-    "desc": "(BETA) WARP检测面板与节点提取",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.beta.stoverride",
+    "name": "☁️ Cloudflare: 🇩 DNS",
+    "desc": "Cloudflare (D)DNS 记录管理",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.DNS.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
   },
   {
-    "name": "☁️ Cloudflare: 🇩 DNS",
-    "desc": "Cloudflare (D)DNS 记录管理",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.DNS.stoverride",
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
+    "desc": "(BETA) WARP检测面板与节点提取",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
   }
