@@ -1281,18 +1281,18 @@
     "repo": "ss_rule"
   },
   {
-    "name": "🍿️ DualSubs: 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "🍿️ DualSubs: 🎦 Streaming Media",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
   },
   {
     "name": "🍿️ DualSubs: TV & Fitness",
