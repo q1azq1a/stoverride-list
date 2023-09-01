@@ -973,18 +973,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "AdGuard 会员",
-    "desc": "解锁 AdGuard 会员功能",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "Force Http Engine",
     "desc": "Force http engine to work when tunnel mode on.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "AdGuard 会员",
+    "desc": "解锁 AdGuard 会员功能",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/adguard.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "全局模式",
