@@ -1295,13 +1295,6 @@
     "repo": "ss_rule"
   },
   {
-    "name": "🍿️ DualSubs: 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
-  },
-  {
     "name": "🍿️ DualSubs: 🇳 Netflix",
     "desc": "Netflix字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
@@ -1309,9 +1302,9 @@
     "repo": "Netflix"
   },
   {
-    "name": "🍿️ DualSubs: TV & Fitness",
-    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.Apple.stoverride",
+    "name": "🍿️ DualSubs: 🎦 Streaming Media",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "Universal"
   },
@@ -1321,6 +1314,13 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.DNS.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "🍿️ DualSubs: TV & Fitness",
+    "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.Apple.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
   },
   {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
