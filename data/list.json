@@ -1288,18 +1288,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "游民星空app去广告",
-    "desc": "去开屏广告，列表广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "🍿️ DualSubs: 🇳 Netflix",
     "desc": "Netflix字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
     "owner": "DualSubs",
     "repo": "Netflix"
+  },
+  {
+    "name": "游民星空app去广告",
+    "desc": "去开屏广告，列表广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   },
   {
     "name": "🍿️ DualSubs: 🎦 Streaming Media",
