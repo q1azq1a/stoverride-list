@@ -1274,6 +1274,13 @@
     "repo": "ss_rule"
   },
   {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
+    "desc": "WARP检测面板与节点提取",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
@@ -1286,13 +1293,6 @@
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
-  },
-  {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
-    "desc": "WARP检测面板与节点提取",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "🍿️ DualSubs: 🎦 Streaming Media",
