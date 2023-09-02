@@ -77,18 +77,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -1267,18 +1267,18 @@
     "repo": "Script"
   },
   {
-    "name": "Emby Unlock",
-    "desc": "解锁Emby会员功能, 无通知",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
     "desc": "WARP检测面板与节点提取",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "Emby Unlock",
+    "desc": "解锁Emby会员功能, 无通知",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   },
   {
     "name": "Sileo 嗨客源修复",
