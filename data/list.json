@@ -280,18 +280,18 @@
     "repo": "stash"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "IP 网络信息 Tile 面板",
     "desc": "包含国内和国外. 自己设置对应域名的分流",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "BiliBili 去广告（兼容国际版）",
@@ -448,18 +448,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "财新周刊会员",
-    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
     "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "微博",
@@ -483,18 +483,18 @@
     "repo": "rule"
   },
   {
-    "name": "New Bing 聊天修复",
-    "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "New Bing 聊天修复",
+    "desc": "1. 修复 Bing App 无法打开 Chat 页面(VPS IP在Bing黑名单仍然无法访问)； 2. 拦截\"资讯\"内容，节省流量； 3. 屏蔽位置请求； 4. 支持在任意浏览器（排除Edge和Bing App）打开Bing Chat； 注意：使用此覆写前您的账号必须获得 New Bing 的使用资格，并将\"国家或地区\"设置为 New Bing 支持的地区",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/TheNewBing.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "VSCO活跃会员",
@@ -1218,6 +1218,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube",
+    "desc": "YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "YouTube"
+  },
+  {
     "name": "哔哩哔哩番剧监控",
     "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
@@ -1230,13 +1237,6 @@
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "YouTube"
   },
   {
     "name": "记录有多余的 DNS 解析的请求",
@@ -1323,17 +1323,17 @@
     "repo": "Cloudflare"
   },
   {
-    "name": "杭州市民卡app广告移除",
-    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
     "desc": "(BETA) WARP检测面板与节点提取",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "杭州市民卡app广告移除",
+    "desc": "广告越来越多了，不能忍了，去除开屏广告、首页广告、出行码页面广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/hzshiminkaAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   }
 ]
