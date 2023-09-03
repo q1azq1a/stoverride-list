@@ -1169,18 +1169,18 @@
     "repo": "scripts"
   },
   {
-    "name": "BoxJs",
-    "desc": "An SPA appliction used for scripts utils.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "An SPA appliction used for scripts utils.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Airplus",
