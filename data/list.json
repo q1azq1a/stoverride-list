@@ -1267,18 +1267,18 @@
     "repo": "scripts"
   },
   {
-    "name": "霸王茶姬小程序签到",
-    "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
-  },
-  {
     "name": "Emby Unlock",
     "desc": "解锁Emby会员功能, 无通知",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
+  },
+  {
+    "name": "霸王茶姬小程序签到",
+    "desc": "默认每天10:00自动签到，使用方法请关注TG频道或仓库说明 https://t.me/Guding88",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
   },
   {
     "name": "🍿️ DualSubs: 🇳 Netflix",
