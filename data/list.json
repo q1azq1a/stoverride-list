@@ -567,18 +567,18 @@
     "repo": "rule"
   },
   {
-    "name": "直连+代理IP地址信息",
-    "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6",
-    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
-    "owner": "RS0485",
-    "repo": "network-rules"
-  },
-  {
     "name": "DNS",
     "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "直连+代理IP地址信息",
+    "desc": "同时查询直连和代理的IP信息显示在Tile，优先使用IPv6",
+    "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/IPGeolocation.stoverride",
+    "owner": "RS0485",
+    "repo": "network-rules"
   },
   {
     "name": "BoxJS",
@@ -1281,18 +1281,18 @@
     "repo": "ss_rule"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: 🇳 Netflix",
     "desc": "Netflix字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
     "owner": "DualSubs",
     "repo": "Netflix"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "游民星空app去广告",
