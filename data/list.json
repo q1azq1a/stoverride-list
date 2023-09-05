@@ -1134,18 +1134,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "PixivShow",
-    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "PixivShow",
+    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "HTTPDNS Block",
