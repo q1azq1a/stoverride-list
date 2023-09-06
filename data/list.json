@@ -833,6 +833,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "黑料不打烊",
+    "desc": "定时获取最新黑料（NSFW）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "脚本转换",
     "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
@@ -843,13 +850,6 @@
     "name": "克拉壁纸",
     "desc": "克拉壁纸解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "黑料不打烊",
-    "desc": "定时获取最新黑料（NSFW）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/hlbdy.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -987,6 +987,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "🍿️ DualSubs: 🎦 Universal",
+    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
+  },
+  {
     "name": "全局模式",
     "desc": "以全局模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
@@ -999,13 +1006,6 @@
     "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.stash.stoverride",
     "owner": "Script-Hub-Org",
     "repo": "Script-Hub"
-  },
-  {
-    "name": "🍿️ DualSubs: 🎦 Universal",
-    "desc": "流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/DualSubs.Universal.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
   },
   {
     "name": "Q-Search",
@@ -1085,6 +1085,13 @@
     "repo": "stash"
   },
   {
+    "name": "PixivShow",
+    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  },
+  {
     "name": "新冠疫情查询 Tile 磁贴",
     "desc": "新冠疫情查询，搭配boxjs使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
@@ -1111,13 +1118,6 @@
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
-  },
-  {
-    "name": "PixivShow",
-    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
   },
   {
     "name": "直连模式",
@@ -1211,6 +1211,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "Google重定向",
+    "desc": "解决Safari多点一次Google的问题",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
@@ -1223,13 +1230,6 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
-  },
-  {
-    "name": "Google重定向",
-    "desc": "解决Safari多点一次Google的问题",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
   },
   {
     "name": "哔哩哔哩番剧监控",
