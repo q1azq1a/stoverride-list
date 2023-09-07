@@ -1232,18 +1232,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "哔哩哔哩番剧监控",
-    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
     "desc": "WARP检测面板与节点提取",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "哔哩哔哩番剧监控",
+    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "记录有多余的 DNS 解析的请求",
