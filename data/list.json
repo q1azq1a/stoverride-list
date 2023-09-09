@@ -952,18 +952,18 @@
     "repo": "rule"
   },
   {
-    "name": "Google API 可用性检测",
-    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
-    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
-    "owner": "xkww3n",
-    "repo": "Scripts"
-  },
-  {
     "name": "BiliBili 重定向到中国大陆正规 CDN",
     "desc": "🇨🇳 仅适配中国区商店版\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-cn-bilibili-cdn-cn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Google API 可用性检测",
+    "desc": "检测节点 IP 是否已被 Google 视为位于服务不可用的地区",
+    "url": "https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.stoverride",
+    "owner": "xkww3n",
+    "repo": "Scripts"
   },
   {
     "name": "AdGuard 会员",
