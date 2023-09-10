@@ -1134,16 +1134,16 @@
     "repo": "rule"
   },
   {
-    "name": "Emby Premiere",
-    "desc": "Unlock Emby Premiere.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
   {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "name": "Emby Premiere",
+    "desc": "Unlock Emby Premiere.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/embypremiere.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -1204,18 +1204,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Google重定向",
-    "desc": "解决Safari多点一次Google的问题",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
-  },
-  {
     "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
     "desc": "WARP检测面板与节点提取",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "Google重定向",
+    "desc": "解决Safari多点一次Google的问题",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/googlecnRedirect.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
   },
   {
     "name": "TG频道图片推送",
@@ -1253,18 +1253,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "🍿️ DualSubs: 🇳 Netflix",
-    "desc": "Netflix字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
-    "owner": "DualSubs",
-    "repo": "Netflix"
-  },
-  {
     "name": "BiliBili 海外 CDN 重定向",
     "desc": "🌎 适配港澳台版和 Miao Project\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "🍿️ DualSubs: 🇳 Netflix",
+    "desc": "Netflix字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
+    "owner": "DualSubs",
+    "repo": "Netflix"
   },
   {
     "name": "demo",
