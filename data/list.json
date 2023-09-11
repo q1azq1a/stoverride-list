@@ -1253,6 +1253,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "Emby Unlock",
+    "desc": "解锁Emby会员功能, 无通知",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
     "name": "BiliBili 海外 CDN 重定向",
     "desc": "🌎 适配港澳台版和 Miao Project\n🍻 加载更流畅的 BiliBili 更值得干杯！\n⚠️ 需要 MitM 或者关闭 HTTPS 加载",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov.stoverride",
@@ -1265,13 +1272,6 @@
     "url": "https://raw.githubusercontent.com/DualSubs/Netflix/main/modules/DualSubs.Netflix.stoverride",
     "owner": "DualSubs",
     "repo": "Netflix"
-  },
-  {
-    "name": "Emby Unlock",
-    "desc": "解锁Emby会员功能, 无通知",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/embyUnlock.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
   },
   {
     "name": "demo",
