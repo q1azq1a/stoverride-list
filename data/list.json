@@ -1022,18 +1022,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "Fake IP Fixer",
     "desc": "此覆写可以过滤 fake-ip 并将其解析为真实 IP，请在 APP 的设置页面启用 \"Fallback DNS\" 以使用此功能。 使用场景：当 WIFI 环境下的网关部署了 Clash 或其他代理时，网关解析的 IP 可能为 fake-ip(198.18.0.1/16)；如果切换到移动网络，Stash 可能无法及时更新 DNS，导致某些网站无法连接。",
     "url": "https://raw.githubusercontent.com/RS0485/network-rules/main/rewrite/FakeIPFixer.stoverride",
     "owner": "RS0485",
     "repo": "network-rules"
+  },
+  {
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "电信余量请求体获取",
