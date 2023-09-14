@@ -1043,18 +1043,18 @@
     "repo": "Module"
   },
   {
-    "name": "NewBing",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
+  },
+  {
+    "name": "NewBing",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "自动加入 TestFlight(β)",
