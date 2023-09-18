@@ -217,18 +217,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁台湾地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "vip 解锁合集",
     "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁台湾地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Bilibili",
@@ -595,18 +595,18 @@
     "repo": "rule"
   },
   {
-    "name": "🍟 Fries: 🌐 DNS enhanced",
-    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": "流媒体信息 Tile 磁贴",
     "desc": "用于显示流媒体信息的面板",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "🍟 Fries: 🌐 DNS enhanced",
+    "desc": "1.域名按所属DNS进行分流解析\n2.路由器地址使用系统DNS进行解析\n3.特殊地址使用规范DNS进行解析",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/DNS.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -917,6 +917,13 @@
     "repo": "Global"
   },
   {
+    "name": "每周循环信息展示 Tile 磁贴",
+    "desc": "用于每周七天自定义显示特定信息",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
@@ -936,13 +943,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/apple-accelerated-download.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "每周循环信息展示 Tile 磁贴",
-    "desc": "用于每周七天自定义显示特定信息",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "BiliBili 重定向到中国大陆正规 CDN",
