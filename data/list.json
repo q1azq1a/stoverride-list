@@ -1029,18 +1029,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "微博(轻享版/极速版)去广告",
     "desc": "微博(轻享版/极速版)去广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/weiboliteAd.stoverride",
     "owner": "psychopasss",
     "repo": "ss_rule"
+  },
+  {
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "电信余量请求体获取",
@@ -1302,6 +1302,13 @@
     "repo": "Cloudflare"
   },
   {
+    "name": "游民星空app去广告",
+    "desc": "去开屏广告，列表广告",
+    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
+    "owner": "psychopasss",
+    "repo": "ss_rule"
+  },
+  {
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
@@ -1314,13 +1321,6 @@
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "Universal"
-  },
-  {
-    "name": "游民星空app去广告",
-    "desc": "去开屏广告，列表广告",
-    "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
-    "owner": "psychopasss",
-    "repo": "ss_rule"
   },
   {
     "name": "🍿️ DualSubs: TV & Fitness",
