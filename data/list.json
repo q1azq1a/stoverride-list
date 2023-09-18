@@ -1155,6 +1155,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
+    "desc": "WARP检测面板与节点提取",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Gist 备份",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
@@ -1167,13 +1174,6 @@
     "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/Tele_Stash.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
-    "desc": "WARP检测面板与节点提取",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/modules/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "BoxJs",
