@@ -1302,6 +1302,13 @@
     "repo": "Cloudflare"
   },
   {
+    "name": "🍿️ DualSubs: 🎦 Streaming Media",
+    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
+    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "Universal"
+  },
+  {
     "name": "游民星空app去广告",
     "desc": "去开屏广告，列表广告",
     "url": "https://raw.githubusercontent.com/psychopasss/ss_rule/main/Stash/override/gamerskyAd.stoverride",
@@ -1319,13 +1326,6 @@
     "name": "🍿️ DualSubs: TV & Fitness",
     "desc": "(V0.7) TV 及 Fitness 字幕增强及双语模块，此模块为兼容模式版，始终强制启用字幕翻译功能",
     "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.Apple.stoverride",
-    "owner": "DualSubs",
-    "repo": "Universal"
-  },
-  {
-    "name": "🍿️ DualSubs: 🎦 Streaming Media",
-    "desc": "(V0.7) 流媒体平台字幕增强及双语模块，如需恢复TV完整支持，请配合“ iRingo: 📺 TV app”使用",
-    "url": "https://raw.githubusercontent.com/DualSubs/Universal/main/modules/archive/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "Universal"
   },
