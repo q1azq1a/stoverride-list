@@ -1036,18 +1036,18 @@
     "repo": "network-rules"
   },
   {
-    "name": "NewBing",
-    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "NewBing",
+    "desc": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/NewBing.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "电信余量请求体获取",
