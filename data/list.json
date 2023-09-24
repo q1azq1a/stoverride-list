@@ -665,18 +665,18 @@
     "repo": "ADBlock"
   },
   {
-    "name": "🍟 Fries: 🌐 ASN China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "GetSomeFries"
-  },
-  {
     "name": " iRingo: 🔍 Siri & Search β",
     "desc": "(BETA) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "🍟 Fries: 🌐 ASN China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/stoverride/ASN.China.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "GetSomeFries"
   },
   {
     "name": "扫描全能王",
@@ -1050,18 +1050,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "GitHub 增强",
     "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/LitPrompt/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "自动加入 TestFlight(β)",
