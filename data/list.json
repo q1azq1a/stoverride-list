@@ -882,18 +882,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "CSDN 免登陆复制代码",
-    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "CSDN 免登陆复制代码",
+    "desc": "免登陆复制、自动展开代码、自动去除复制信息 (Stash for Mac)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/csdngreener.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
   },
   {
     "name": "DNS-CN",
