@@ -1015,6 +1015,13 @@
     "repo": "ss_rule"
   },
   {
+    "name": "🍿️ DualSubs: ▶️ YouTube",
+    "desc": "YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "YouTube"
+  },
+  {
     "name": "BiliBili每日等级任务",
     "desc": "定时任务及Cookie获取",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/CronScript/BiliBiliDailyBonus.stoverride",
@@ -1027,13 +1034,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "🍿️ DualSubs: ▶️ YouTube",
-    "desc": "YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "YouTube"
   },
   {
     "name": "Fake IP Fixer",
