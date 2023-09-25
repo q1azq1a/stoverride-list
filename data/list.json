@@ -840,18 +840,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "APP合集-骨钉",
-    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://t.me/Guding88",
-    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
-    "owner": "Guding88",
-    "repo": "Script"
-  },
-  {
     "name": "脚本转换",
     "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "APP合集-骨钉",
+    "desc": "超200款APP脚本解锁合集，已解锁列表请见仓库说明，持续更新中，请关注TG频道获取更新通知 https://t.me/Guding88",
+    "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.stoverride",
+    "owner": "Guding88",
+    "repo": "Script"
   },
   {
     "name": "Block Bad UDP",
@@ -1022,18 +1022,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Do-Not-Track My Xiaohongshu",
-    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "🍿️ DualSubs: ▶️ YouTube",
     "desc": "YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/YouTube/main/modules/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "YouTube"
+  },
+  {
+    "name": "Do-Not-Track My Xiaohongshu",
+    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "Fake IP Fixer",
